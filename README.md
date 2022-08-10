@@ -25,4 +25,18 @@ GUI based on Clash and Electron.
 
 * ![图片](https://user-images.githubusercontent.com/79394963/183930452-eebad1b6-2594-423b-86dd-eb4da06d1a93.png)
 
+ on Clash 
+ 
+ * ![图片](https://user-images.githubusercontent.com/79394963/183931535-fdabecbc-d33d-43d3-9662-e9c7e605fceb.png)
+ 
+ *  on
+ * ![图片](https://user-images.githubusercontent.com/79394963/183932203-61c1685b-d1d7-48f5-942f-fdeeebb50a6b.png)
+
+  A Windows/macOS GUI based on Clash 
+  
+  * ![图片](https://user-images.githubusercontent.com/79394963/183933103-be8da912-d4ef-400c-9727-e99ea8cbcbc9.png)
+
+  
+  
+
 
