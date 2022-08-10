@@ -13,7 +13,13 @@ Windows
 * ![图片](https://user-images.githubusercontent.com/79394963/162755531-3137c714-97fb-451f-add5-3e3a01807da0.png)
 
 
-A Windows/macOS/Linux GUI based on Clash and Electron.
+A Windows/macOS/Linux GUI
+
+* ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220810/a1QQ图片20220810230049.43gweh8ptms0.jpg)
+
+
+
+based on Clash and Electron.
 
 
 * ![图片](https://user-images.githubusercontent.com/79394963/162755420-66326a16-904c-48c0-a40a-d90fea741896.png)
