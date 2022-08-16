@@ -80,4 +80,19 @@ IPSEC      SSL
 
 * ![图片](https://user-images.githubusercontent.com/79394963/184828680-f2b8f0e1-4cbe-40b5-b9d2-faf7904a97ab.png)
 
+ 操作系统的概念
+
+* ![图片](https://user-images.githubusercontent.com/79394963/184829083-5d554b72-4041-457b-a980-38e42673a032.png)
+
+HTTP 篇
+
+* ![图片](https://user-images.githubusercontent.com/79394963/184829465-27bb7787-80c9-4716-b9bb-8b9ab998b5b4.png)
+
+TCP 篇
+* ![图片](https://user-images.githubusercontent.com/79394963/184829675-d4ed4b66-aeac-4d14-a325-cf6dec4d6fde.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/184829827-8e38e723-3b25-4790-9903-5bf38abeb89b.png)
+
+
+
   
