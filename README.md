@@ -60,14 +60,24 @@ GUI based on Clash and Electron.
 
 A类 10.0.0.1 ~ 10.255.255.254
 
+![图片](https://user-images.githubusercontent.com/79394963/184828135-dce24c51-9d0d-4e5c-8a98-7ad88e9f9db1.png)
+
 B类 172.16.0.1 ~ 172.31.255.254
+* ![图片](https://user-images.githubusercontent.com/79394963/184828210-fc7558d5-6d27-4485-942a-6f28e64463e0.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/184828363-dfad8903-8b98-4333-93fe-dbd46219cba0.png)
 
 C类 192.168.0.1 ~ 192.168.255.254
 
 *  ![图片](https://user-images.githubusercontent.com/79394963/184809005-b05441b6-0727-4910-878a-f3d563e1e319.png)
 
+防火墙，防火墙和路由器、交换机
+* ![图片](https://user-images.githubusercontent.com/79394963/184827808-c86f0943-9c95-42f2-adf2-2ddc187b6883.png)
 
+*  ![图片](https://user-images.githubusercontent.com/79394963/184828504-13c6be51-cb32-46a5-aa14-62cc930e9158.png)
 
-  
+IPSEC      SSL
+
+* ![图片](https://user-images.githubusercontent.com/79394963/184828680-f2b8f0e1-4cbe-40b5-b9d2-faf7904a97ab.png)
 
   
