@@ -42,7 +42,12 @@ GUI based on Clash and Electron.
   
   *  ![图片](https://git.poker/mj5219054/friendly-journey/blob/main/20220810/a1QQ图片20220810225051.2fdxvwe0x5xc.jpg?raw=true)
   
+  # 主机流量出入
+  
   * ![图片](https://user-images.githubusercontent.com/79394963/184807858-3b9323a8-9e95-44b2-b344-a533714b5dbd.png)
+  
+  * ![图片](https://user-images.githubusercontent.com/79394963/188295153-7c3bf962-f564-487a-ac6a-3b02b469f31d.png)
+
 
   *  ![图片](https://user-images.githubusercontent.com/79394963/184807967-61edad05-9908-457a-8a63-cc9de480247a.png)
 
@@ -92,6 +97,12 @@ TCP 篇
 * ![图片](https://user-images.githubusercontent.com/79394963/184829675-d4ed4b66-aeac-4d14-a325-cf6dec4d6fde.png)
 
 * ![图片](https://user-images.githubusercontent.com/79394963/184829827-8e38e723-3b25-4790-9903-5bf38abeb89b.png)
+
+
+dns查询
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188295187-0aa98733-3482-4d83-a7a7-d59a48375e81.png)
+
 
 
 ### 互联网
