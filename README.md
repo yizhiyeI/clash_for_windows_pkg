@@ -114,3 +114,41 @@ dns查询
 ### 互联网
   
 * ![互联网](https://user-images.githubusercontent.com/79394963/185046931-1b340a31-2c8c-4be4-8006-17a08e48724b.png)
+
+* 网络层-IP地址的子网划分</a>
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188295478-abd4f408-d6f8-4e75-8d7f-02079628b2ba.png)
+
+* 无分类编址CIDR
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188295512-3b7b1d99-94fd-4ee9-86cd-c28153f00253.png)
+
+  IP地址
+ * ![图片](https://user-images.githubusercontent.com/79394963/188295547-14cee984-2e3a-4c88-840f-1dcfc3df277a.png)
+
+  分配了C类地址193.10.10.0，对于这个C类地址有254个主机号。如果对这个C类地址进行子网划分的话，就可以把第25位看做是子网号(11000001.00001010.00001010.00000000)，那么就可以分成1和0这两个子网号。那么0这个子网号就可以表示：193.10.10.0 ~ 193.10.10.127这个网络段。1这个子网就可以表示：193.10.10.128 ~ 193.10.10.255这个网络段，这样就把原来的C类地址分成了两个子网
+  
+ * ![图片](https://user-images.githubusercontent.com/79394963/188295582-432433df-72d0-4b4c-a33d-f87e81552735.png)
+ 
+ * ![图片](https://user-images.githubusercontent.com/79394963/188295607-2ccbd552-2340-43c9-b8d6-fa9823452d98.png)
+
+高速缓存
+
+每一个主机都设有一个 ARP 高速缓存 (ARP cache)，里面有本局域网上的各主机和路由器的 IP 地址到硬件地址的映射表。工作原理
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188295623-8c0e59e3-7bc0-43ec-bd02-ea816987209c.png)
+
+网站的分类：
+
+    门户类网站：主要是提供资讯类容为主，包括综合性门户，例如搜狐，新浪等网站。 ...
+    展示型网站：主要是展示公司的形象，品牌等。 ...
+    营销型网站：主要是以引导顾客关注，发起反馈的说服性网站。 ...
+    交易型网站：主要是提供在线交易的网站。 ...
+    服务型网站：提供服务查询等，主要是以政务类网站为主。
+    
+ * ![图片](https://user-images.githubusercontent.com/79394963/188295741-4426b80d-297b-40a6-9b92-8a99417dde5a.png)
+ 
+ * ![图片](https://user-images.githubusercontent.com/79394963/188295755-be1a8fd9-4d19-4a3e-b485-92cdd4232163.png)
+
+
+  
