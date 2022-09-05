@@ -233,8 +233,23 @@ dns查询
 
 * ![图片](https://user-images.githubusercontent.com/79394963/188382664-5c275a1f-5f8c-416a-8bcc-3e3e009f322d.png)
 
- 
- 
+# 人们日常
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188447005-de5e83ed-953b-4e1e-8305-e68c29269bab.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188447107-42020455-182d-43c7-962f-084614b0ee98.png)
+
+# 高频词汇与舆论
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188447285-8074f5c4-18a9-451b-93f0-2070e4f26e63.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188447362-11751b7c-82bd-41d0-9a06-26901807fc41.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188448073-05087656-87c7-4f3e-bd57-15f1dee7a22a.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188448371-bc2fc654-2f0b-49f5-acb8-9202484c9d5e.png)
+
+
 
 
 
