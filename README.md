@@ -179,5 +179,16 @@ dns查询
 ![图片](https://user-images.githubusercontent.com/79394963/188295994-38da4b83-4615-45f8-836b-70d036d83693.png)
 
 # App
-![图片](https://user-images.githubusercontent.com/79394963/188374930-e1738787-23b6-4565-92ee-63ed60ab2e32.png)
+* ![图片](https://user-images.githubusercontent.com/79394963/188374930-e1738787-23b6-4565-92ee-63ed60ab2e32.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188377546-cb7b8a15-d918-4169-b3bb-48365ec06d9b.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188378085-996124f2-0a79-43d9-9c83-3fdd13eba015.png)
+
+# 人群抽样
+* ![图片](https://user-images.githubusercontent.com/79394963/188378685-d8f9774d-7db8-4250-ab53-02718d5af52b.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188379119-c7262d94-0ba7-442c-8ab6-8ad0bb804b8a.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188379329-759d0b8c-9eb6-4ab2-a0e2-01797a7f1c7d.png)
 
