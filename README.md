@@ -192,3 +192,19 @@ dns查询
 
 * ![图片](https://user-images.githubusercontent.com/79394963/188379329-759d0b8c-9eb6-4ab2-a0e2-01797a7f1c7d.png)
 
+# 互联网的生态
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188380823-f5eac4d8-84d3-4ddb-94c7-a98ab6ae5911.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188380884-9dcc9014-b0aa-40f0-ae0b-eb2a70cf4a89.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188380957-9c7f9b77-8797-4aaf-8a35-5e9feec07ab1.png)
+# 分享机制社交购买力
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188381182-c245e428-6432-4543-b425-4de7c045cdaa.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188381403-807170a2-cff7-4a98-96f2-20ef78139e7d.png)
+
+
+
+
