@@ -249,6 +249,7 @@ dns查询
 
 * ![图片](https://user-images.githubusercontent.com/79394963/188448371-bc2fc654-2f0b-49f5-acb8-9202484c9d5e.png)
 
+* ![图片](https://user-images.githubusercontent.com/79394963/188448604-1fe89f3d-9a12-400f-a89c-b70b65978619.png)
 
 
 
