@@ -206,5 +206,41 @@ dns查询
 * ![图片](https://user-images.githubusercontent.com/79394963/188381403-807170a2-cff7-4a98-96f2-20ef78139e7d.png)
 
 
+# 信息传播与影响力决策
+ 
+*  ![图片](https://user-images.githubusercontent.com/79394963/188381879-4b9a4f11-271a-4b55-875c-9c4f206b1ca2.png)
+
+*  ![图片](https://user-images.githubusercontent.com/79394963/188381956-175ef4da-bfac-4865-80dd-174f3c77b4d9.png)
+
+*  ![图片](https://user-images.githubusercontent.com/79394963/188382094-ac061010-564f-483c-a270-45b4607ece76.png)
+
+*  ![图片](https://user-images.githubusercontent.com/79394963/188382139-8f6de979-98e2-438f-8a3f-34c0c1638d68.png)
+
+*  ![图片](https://user-images.githubusercontent.com/79394963/188382184-f683135c-d2b1-4547-81ab-ba7e90b58df1.png)
+
+# 传播力与人群画像
+ 
+ * ![图片](https://user-images.githubusercontent.com/79394963/188382286-63dab080-4f7c-4e7b-b068-1f3793d5b2ca.png)
+
+ * ![图片](https://user-images.githubusercontent.com/79394963/188382347-ce42ffb2-ec6f-4632-931c-644f7eb3d1de.png)
+ 
+ * ![图片](https://user-images.githubusercontent.com/79394963/188382425-a48ff179-54e7-4cc7-a354-04e8f8cf04b7.png)
+
+
+# 三力评估图
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188382564-2ab5f71d-b640-4f71-9752-e7af9b68b0a8.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188382664-5c275a1f-5f8c-416a-8bcc-3e3e009f322d.png)
+
+ 
+ 
+
+
+
+
+
+
+
 
 
