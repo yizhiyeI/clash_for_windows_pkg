@@ -148,6 +148,12 @@ dns查询
 
 * ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220906/a1v2-b511a062c2803ecfc6931bfdcf3f2b51_720w.5l2efbisz7k0.jpg)
 
+* ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220906/xxx.47katpd0i0e0.jpg)
+
+# 网络架构图
+
+* ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220906/xxx11.1ekppp0omkgw.jpg)
+
 
 网站的分类：
 
@@ -176,6 +182,7 @@ dns查询
 
 * 互联网的便捷、即时与互动性，也催生了许多像MySpace、Facebook、Youtube、这样的虚拟社区及相应的网络文化，即時通訊軟件如WhatsApp、Wechat、Line，以及维基百科和维基媒體等自由協作式百科全書。同時，也帶來像Google Map、Google Earth及Google street view等提供全球地圖、全球衛星圖、城市街景等服務。無線網路的方便也帶來流動支付的盛行，比如Apple pay、Google pay、Samsung pay、Wechat pay、支付寶等服務
 * 互联网历史年表则将互联网史分为三个阶段：
+* ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220906/xxx.4sd7uezlcjy0.jpg)
 
 （1）早期研究和发展（1965-1981）；
 
@@ -196,7 +203,9 @@ dns查询
 * 第五阶段，是21世纪头10年的Web 2.0阶段，主要是博客、社交媒体等兴起，网民成为内容的生产主体；
 * 第一阶段，20世纪60年代的基础技术阶段，以计算机广域网和数字通信技术的成熟为标志，尤其是包交换技术的突破，为互联网前身——ARPA网的诞生奠定了基础；
 
-![图片](https://user-images.githubusercontent.com/79394963/188295994-38da4b83-4615-45f8-836b-70d036d83693.png)
+* ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220906/a1Snipaste_2022-09-06_02-21-42.1l99fc30kqo0.jpg)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/188295994-38da4b83-4615-45f8-836b-70d036d83693.png)
 
 # App
 * ![图片](https://user-images.githubusercontent.com/79394963/188374930-e1738787-23b6-4565-92ee-63ed60ab2e32.png)
