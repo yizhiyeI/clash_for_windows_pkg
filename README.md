@@ -146,7 +146,7 @@ dns查询
 
 * ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220906/xxx.2uqbodnu7di0.jpg)
 
-* ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220906/xxx.1qnq7stuijb4.jpg)
+* ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220906/a1v2-b511a062c2803ecfc6931bfdcf3f2b51_720w.5l2efbisz7k0.jpg)
 
 
 网站的分类：
