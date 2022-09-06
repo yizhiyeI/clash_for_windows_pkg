@@ -138,6 +138,16 @@ dns查询
 
 * ![图片](https://user-images.githubusercontent.com/79394963/188295623-8c0e59e3-7bc0-43ec-bd02-ea816987209c.png)
 
+# 计算机运作
+
+* ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220906/a1.5e0ut8ttwzw0.jpg)
+
+*  ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220906/a1QQ浏览器截图20220906013634.2mtke52mg520.jpg)
+
+* ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220906/xxx.2uqbodnu7di0.jpg)
+
+
+
 网站的分类：
 
     门户类网站：主要是提供资讯类容为主，包括综合性门户，例如搜狐，新浪等网站。 ...
@@ -149,6 +159,15 @@ dns查询
  * ![图片](https://user-images.githubusercontent.com/79394963/188295741-4426b80d-297b-40a6-9b92-8a99417dde5a.png)
  
  * ![图片](https://user-images.githubusercontent.com/79394963/188295755-be1a8fd9-4d19-4a3e-b485-92cdd4232163.png)
+ 
+
+# 密码学
+ * ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220906/a1QQ浏览器截图20220906012830.es464zv8e8g.jpg)
+ 
+ 
+ 
+ 
+ 
 
 # 互联网目标
   
