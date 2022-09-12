@@ -171,18 +171,21 @@ dns查询
 
 # 物联网与大数据
 
-*　![图片](https://git.poker/mj5219054/friendly-journey/blob/main/20220912/a1Snipaste_2022-09-12_23-09-30.66tz6j2ruck0.jpg?raw=true)
-
-* ![图片](https://git.poker/mj5219054/friendly-journey/blob/main/20220912/a1Snipaste_2022-09-12_23-09-39.1b45nvhvscxs.jpg?raw=true)
-
-* ![图片](https://git.poker/mj5219054/friendly-journey/blob/main/20220912/a1Snipaste_2022-09-12_23-09-47.eswj0qo78b4.jpg?raw=true)
-
-* ![图片](https://git.poker/mj5219054/friendly-journey/blob/main/20220912/a1Snipaste_2022-09-12_23-09-59.3rxhao4dumm0.jpg?raw=true)
-
-* ![图片](https://git.poker/mj5219054/friendly-journey/blob/main/20220912/a1Snipaste_2022-09-12_23-10-12.5k7s0thww000.jpg?raw=true)
+*　![图片](https://user-images.githubusercontent.com/79394963/189700505-3e8c4ab7-39c2-4411-ae64-aa4548fd9bac.png)
 
 
-* ![图片](https://git.poker/mj5219054/friendly-journey/blob/main/20220912/a1Snipaste_2022-09-12_23-10-24.1hck1kynfvhc.jpg?raw=true)
+* ![图片](https://user-images.githubusercontent.com/79394963/189700573-196c6752-fb93-43f1-a233-afa6904c3979.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/189700622-0a8bb071-fe4d-489e-8bea-80c946e18a62.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/189700667-d2bf5c95-5bcb-4061-aae6-781a9b337fb3.png)
+
+
+* ![图片](https://user-images.githubusercontent.com/79394963/189700707-59337649-e1b0-4ca7-ab47-1a6456abf745.png)
+
+
+*　![图片](https://user-images.githubusercontent.com/79394963/189700745-f2f11f77-0c97-4945-90bf-f1fbf7c3e84b.png)
+
 
 
 
