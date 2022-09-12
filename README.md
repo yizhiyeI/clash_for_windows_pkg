@@ -187,6 +187,8 @@ dns查询
 *　![图片](https://user-images.githubusercontent.com/79394963/189700745-f2f11f77-0c97-4945-90bf-f1fbf7c3e84b.png)
 
 
+＊　![图片](https://user-images.githubusercontent.com/79394963/189738491-5d3145f2-e86f-4280-a96f-ab441cc016ae.png)
+
 
 
 # 密码学
