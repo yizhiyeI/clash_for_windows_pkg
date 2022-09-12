@@ -168,6 +168,24 @@ dns查询
  * ![图片](https://user-images.githubusercontent.com/79394963/188295755-be1a8fd9-4d19-4a3e-b485-92cdd4232163.png)
  
 
+
+# 物联网与大数据
+
+*　![图片](https://git.poker/mj5219054/friendly-journey/blob/main/20220912/a1Snipaste_2022-09-12_23-09-30.66tz6j2ruck0.jpg?raw=true)
+
+* ![图片](https://git.poker/mj5219054/friendly-journey/blob/main/20220912/a1Snipaste_2022-09-12_23-09-39.1b45nvhvscxs.jpg?raw=true)
+
+* ![图片](https://git.poker/mj5219054/friendly-journey/blob/main/20220912/a1Snipaste_2022-09-12_23-09-47.eswj0qo78b4.jpg?raw=true)
+
+* ![图片](https://git.poker/mj5219054/friendly-journey/blob/main/20220912/a1Snipaste_2022-09-12_23-09-59.3rxhao4dumm0.jpg?raw=true)
+
+* ![图片](https://git.poker/mj5219054/friendly-journey/blob/main/20220912/a1Snipaste_2022-09-12_23-10-12.5k7s0thww000.jpg?raw=true)
+
+
+* ![图片](https://git.poker/mj5219054/friendly-journey/blob/main/20220912/a1Snipaste_2022-09-12_23-10-24.1hck1kynfvhc.jpg?raw=true)
+
+
+
 # 密码学
  * ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220906/a1QQ浏览器截图20220906012830.es464zv8e8g.jpg)
  
