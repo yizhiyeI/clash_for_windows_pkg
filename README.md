@@ -219,6 +219,17 @@ dns查询
 
 * ![图片](https://user-images.githubusercontent.com/79394963/190095850-2aca9914-8b5c-4fe9-b31a-bc9ec00456cb.png)
 
+* ![图片](https://user-images.githubusercontent.com/79394963/190096253-9876a8eb-ac89-4f85-b29d-531d21028f57.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/190096353-caa109b0-d065-4ebf-9380-cd661f595fc0.png)
+
+
+
+
+
+
+
+
 
 # 密码学
  * ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220906/a1QQ浏览器截图20220906012830.es464zv8e8g.jpg)
