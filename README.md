@@ -190,6 +190,22 @@ dns查询
 ＊　![图片](https://user-images.githubusercontent.com/79394963/189738491-5d3145f2-e86f-4280-a96f-ab441cc016ae.png)
 
 
+# 区块链的应用
+
+* ![图片](https://user-images.githubusercontent.com/79394963/190084527-7c4ee199-d7d4-4758-bfc5-8bbbd31ffde1.png)
+
+
+* ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220914/a1Snipaste_2022-09-14_14-52-37.sqvfhhoa1ps.jpg)
+
+
+* ![图片](https://user-images.githubusercontent.com/79394963/190084396-59a9937f-6568-4224-bcec-a221e791163a.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/190084607-2c287068-131d-48b9-af9b-737e711c29cb.png)
+
+
+
+
+
 
 # 密码学
  * ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220906/a1QQ浏览器截图20220906012830.es464zv8e8g.jpg)
