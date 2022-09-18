@@ -225,7 +225,16 @@ dns查询
 
 *　![图片](https://user-images.githubusercontent.com/79394963/190303207-b6448c3b-9d53-421a-980a-5a3aff6cdfc0.jpg)
 
+区块链是一种技术，DAO是一种制度，Web3则是一种文化。DAO是一种去中心化组织形态，可以理解为“去中心化的公司”，是建立在区块链之上的经济系统，有相同理念和共识的人即可形成一个DAO。
+去中心化，是Web3的精神所在，也是互联网的核心，去中心化体现在两层：一层是社会范围，第二层是Web3本身，它的核心思想是信奉去中心化
 
+创新的本质是解决别人没有解决的问题, 当然会同时创造新的目前无法解决的问题.
+
+Crypto 的第一个时代是比特币, 第二个时代是以太坊与智能合约, 第三个时代会是零知识证明.
+
+* ![图片](https://user-images.githubusercontent.com/79394963/190922502-119deabb-bb89-4d85-ab59-60545db9f769.png)
+
+技术上来看: Crypto 带来了无限的创新. 共识: 中本聪共识、Avalanche 共识; 密码学: STARK、PLONK、Halo2; 计算: RISC Zero、Zexe、Cairo; 隐私: Zcash.
 
 ＃　相关公司探索
 
