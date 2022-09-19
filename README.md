@@ -1,6 +1,6 @@
 # Clash for
 
-![图片](https://user-images.githubusercontent.com/79394963/183928239-623f924f-cbc9-40a5-b288-386127cc2c4c.png)
+* ![图片](https://user-images.githubusercontent.com/79394963/183928239-623f924f-cbc9-40a5-b288-386127cc2c4c.png)
 
 
 * ![图片](https://user-images.githubusercontent.com/79394963/190958458-38a23c3c-6232-42ee-9ff0-47979709c666.png)
@@ -39,7 +39,7 @@ GUI based on Clash and Electron.
 
   A Windows/macOS GUI based on Clash 
   
-  *  ![图片](https://git.poker/mj5219054/friendly-journey/blob/main/20220810/a1QQ图片20220810225051.2fdxvwe0x5xc.jpg)
+  *  ![图片](https://github.com/mj5219054/friendly-journey/blob/main/20220810/a1QQ%E5%9B%BE%E7%89%8720220810225051.2fdxvwe0x5xc.jpg)
   
   *  ![图片](https://user-images.githubusercontent.com/79394963/190958855-9ca528b0-760e-4faf-a963-a554a5541059.png)
 
