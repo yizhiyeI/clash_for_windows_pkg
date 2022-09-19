@@ -39,7 +39,10 @@ GUI based on Clash and Electron.
 
   A Windows/macOS GUI based on Clash 
   
-  *  ![图片](https://git.poker/mj5219054/friendly-journey/blob/main/20220810/a1QQ图片20220810225051.2fdxvwe0x5xc.jpg?raw=true)
+  *  ![图片](https://git.poker/mj5219054/friendly-journey/blob/main/20220810/a1QQ图片20220810225051.2fdxvwe0x5xc.jpg)
+  
+  *  ![图片](https://user-images.githubusercontent.com/79394963/190958855-9ca528b0-760e-4faf-a963-a554a5541059.png)
+
   
   # 主机流量出入
   
