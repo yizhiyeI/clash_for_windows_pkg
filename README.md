@@ -1,10 +1,9 @@
-# Clash 
-for
+# Clash for
 
 ![图片](https://user-images.githubusercontent.com/79394963/183928239-623f924f-cbc9-40a5-b288-386127cc2c4c.png)
 
 
-
+* ![图片](https://user-images.githubusercontent.com/79394963/190958458-38a23c3c-6232-42ee-9ff0-47979709c666.png)
 
 
 Windows
