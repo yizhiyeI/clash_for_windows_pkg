@@ -303,6 +303,79 @@ Web 3.0以用户为中心，强调用户拥有（own）自主权：
 
 在Web 3.0时代，用户拥有数据，数据拥有价值。这与Web 2.0时代的用户即商品截然不同。从互联网时代的商品到互联网价值的主人，用户可以不依赖平台而通过相互协助的方式在互联网上创造价值，并且传递价值。这就是Web 3.0作为价值互联网的意义。
 
+TLDR; 结论：
+（1）总收入：Web3商业模式已经大有发展，其中最强大的仍然是“出售区块空间”，其次是 NFT 交易平台、DeFi 、GameFi 和基础设施。
+（2）协议收入：大部分收入仍然来自Liquidity Providers和Lenders等角色创造的 Supply-side Revenue，协议本身的盈利能力 Protocol Revenue 仍然较少，其中流向 Token Holders 的部分更少。虽然用户享受到了质押收益和治理权，但最核心的经济利益现在仍然不能够保证。
+（3）协议收入存在审计漏洞，对 Token Holders 造成风险：Protocol Revenue 中的风险计提没有得到体现，协议收入数据与代币销售数据经常混为一谈，甚至有部分协议收入隐藏了Rug Pull风险。
+
+* ![图片](https://user-images.githubusercontent.com/79394963/191681820-255b5559-f74b-463c-b1e9-3eb117a06a56.png)
+
+2.1 协议自身的价值：Protocol Revenue
+一般来说，Web3 协议的收入由 Supply-side Revenue 和 Protocol Revenue 两部分构成，其中Protocol Revenue的去向分为Treasury和Token holders（如下图
+
+* ![图片](https://user-images.githubusercontent.com/79394963/191681962-b902d41d-db3f-4738-b588-ee69128a1016.png)
+
+解释这张图：
+Total Revenue = Supply-side Revenue + Protocol Revenue
+●Supply-side Revenue：是指的由 Suppliers（资金的供给方）产生的，比如 Defi 中的所有流动性提供者，借贷中的所有借款人，Staking 中的所有出资人等角色，他们在扣除本金后获得的收益。这一部分价值由 suppliers 创造，收入也自然归属于他们。
+●Protocol Revenue：是指的协议在提供服务后收取的属于自身的收入，这一部分中，一般会分配给 Treasury，剩下的分配给 Token Holders。
+根据我们的统计，总收入最高的17个公司/产品/协议中，大部分 Protocl Revenue 的比例极低。
+●Defi 项目的 supply-side revenue 大多占到Total Revenue的**90%**以上。更有甚者如 Uniswap，虽然累计总交易额达到1万亿美金，总收入高达6亿美金（半年），但是没有任何 Protocol Revenue。
+●中心化的项目比如 Opensea，Metamask 等，由于没有 Tokenomics ，因此 Protocol Revenue 暂且代表归属于公司的价值。
+
+* ![图片](https://user-images.githubusercontent.com/79394963/191682050-4f32c18a-a25f-416d-8357-a5f931524bd7.png)
+
+* 2022年，Web3 公司已经具备了商业模式，和创造巨额收入的能力。如何为收入找到对社区，甚至是社会，更有价值的分配方式，是一个艰难的任务。有的协议将收入据为己有，有的协议将其保留在treasury选择观望，有的选择将收入回馈社区。当然，也有项目选择回避披露，用各种方式掩盖自己获取利益
+
+ 巨头垄断的世界, Web3初印象
+
+* ![图片](https://user-images.githubusercontent.com/79394963/191682373-702d630e-4b98-47c0-983e-2d3522012b77.png)
+
+1. Value DeFi
+
+北京时间 11 月 14 日 23 点 36 分，Value DeFi 的 MultiStables Vault 池子遭受黑客攻击，损失将近 740 万美金的 DAI。由于 Value DeFi 协议在使用基于 AMM 算法的价格预言机(Curve)来计算代币价格时存在漏洞。攻击者先通过闪电贷操纵 Curve 上通证的价格，然后再用铸造的 pooltokens 成功提取出了远超原先价值的 3CRV 通证。之后，攻击者再将这些 3CRV 通证在 Curve 上赎回 DAI，从而完成获利。
+
+2. Akropolis DeFi
+
+11 月 13 日， DeFi 借贷协议 Akropolis 协议遭受黑客攻击，损失约 200 万 DAI，Akropolis创始人兼首席执行官Ana Andrianova表示，攻击者利用在衍生品平台 dYdX 的闪电贷进行重入攻击。攻击者使用自己构造的通证，对 Akropolis 合约的 deposit 函数进行重入，导致 Akropolis 合约使用相同的差值铸币了两次，但是只触发了一次转账，当攻击者提现的时候，就可以提两倍的收益，从而获利。
+
+3. Cheese Bank
+
+11 月 7 日凌晨 3 时 22 分，黑客利用闪电贷（Flash loan）通过一笔交易攻击一家去中心化数字银行 Cheese Bank 获利 330 万美元。PeckShield 通过追踪和分析发现，攻击者首先通过 dYdX 闪电贷贷出大笔 ETH。随后，在 Uniswap V2 中将 50 枚 WETH 兑换为 107,000 枚 CHEESE(Cheese Bank 通证)。Cheese Bank 以流动性矿池 UNI_V2-CHEESE-ETH 中 WETH 的数量来衡量所对应的 UNI_V2 LP 凭证的价格，攻击者通过提高 UNI_V2 LP 凭证的价格能有效地贷出更多 USDC、USDT、DAI。最后，攻击者在将 ETH 归还给 dYdX 闪电贷后获得巨额套利收益。
+
+4. Harvest Finance
+
+10 月 26 号，Harvest Finance 项目遭受闪电贷攻击，损失约 2400 万美元。黑客发起的此次经济攻击是通过 Curve Y 池进行的。黑客通过闪电贷瞬间操纵了 Curve 上稳定币的汇率，然后在 Harvest 低价充值某稳定币、并在 Curve 购回所卖出的稳定币，恢复正常汇率，Harvest 提现，赚取汇率差。
+
+
+二、关于 DeFi 攻击事件的反思
+
+DeFi，一般是指基于智能合约平台构建的加密资产、金融类智能合约以及协议。今年 DeFi 凭借吸纳百亿资金入场备受瞩目，但与此同时也出现了一群被戏称为“科学家”的人们依靠技术实力和知识门槛专薅 DeFi 的羊毛，利用 DeFi 进行套利获取巨额收益。在 DeFi 的世界里，这群“科学家”们把 “借款、转移（执行）、还款” 都编程到一笔发往智能合约的交易里，以此来实现以极低甚至零成本在各个
+
+
+
+黑客攻击可来说分本身项目存在价值，不然他干嘛去攻击呢。对对于项目方做好防御策略，优化该优化的。加密货币市场，同一资产在不同的交易所有不同的价格。这些价格差异使得交易者可以通过在不同平台上进行交易来获取利润。当闪电贷进入 DeFi 的世界，套利的成本更低了。这听起来是一件好事，但是 DeFi 协议的漏洞增加了资金被盗的风险。就像 V神所说，高利率的天平两端分坐着短暂的套利机会和未知的风险。
+
+###  DeFi 协议开发者理应在频频发生的多起由于智能合约漏洞引发的黑客事件中吸取教训。项目开发者在业务逻辑设计时，应当充分考虑这类极端情况，同时应找专业的审计机构进行审计和研究，以防范各种可能的风险。
+
+
+
+
+全球 100 个最有价值的品牌
+
+* ![图片](https://user-images.githubusercontent.com/79394963/191682504-20f63f15-219e-4b8a-ae74-8aff99721270.png)
+
+
+* ![图片](https://user-images.githubusercontent.com/79394963/191682958-b0863208-2a87-4f47-898c-8d9a8774223e.png)
+
+马太效应在全球市场都放之皆准，但如何管理与约束我们的路还很远。互联网企业好似惊弓之鸟，但监管以后肯定会是常态，野蛮生长的时代已经过去，
+
+如何在规则下发挥效能才是企业家们下一步的挑战。而自身个人的想法作为用户，巨头收集我们的数据用做大数据，产品分为国内和国际版不一，利益导致喂给信息垃圾，但又离不开它们。
+
+
+
+
+
 
 
 ###  技术上来看: Crypto 带来了无限的创新. 共识: 中本聪共识、Avalanche 共识; 密码学: STARK、PLONK、Halo2; 计算: RISC Zero、Zexe、Cairo; 隐私: Zcash.
@@ -352,6 +425,16 @@ Web 3.0以用户为中心，强调用户拥有（own）自主权：
 比特币最重要的贡献在于，其从2008年开始的实践为区块链技术的研究和应用奠定了基础，积累了经验。比特币不一定会成功，但区块链一定会成功。这已成为越来越多人的共识。
 
 * ![图片](https://user-images.githubusercontent.com/79394963/191408003-0809d23b-9d51-4b7b-9cb5-f3ef743d2aa3.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/191680992-356996de-fb3e-4465-81ff-efa3cfcf855b.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/191681031-27f30fe5-3faa-40ee-92d3-0a576e26f987.png)
+
+种子/天使轮融资占比为53%
+
+从融资轮次方面观察，种子/天使是8月第2周区块链领域的主要融资形式，发生了23起，占比53%。A轮和战略投资随后，分别发生9起和6起，占比21%和14%。此外，Pre-A、并购和C轮分别发生2起、2起和1起。
+
+* ![图片](https://user-images.githubusercontent.com/79394963/191681332-ce7f6fda-5a94-4a89-aa67-68b7901e6add.png)
 
 
 
