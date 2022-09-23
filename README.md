@@ -259,7 +259,7 @@ dns查询
 区块链是一种技术，DAO是一种制度，Web3则是一种文化。DAO是一种去中心化组织形态，可以理解为“去中心化的公司”，是建立在区块链之上的经济系统，有相同理念和共识的人即可形成一个DAO。
 去中心化，是Web3的精神所在，也是互联网的核心，去中心化体现在两层：一层是社会范围，第二层是Web3本身，它的核心思想是信奉去中心化
 
-* ![区块链](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/README.md)
+* ![区块链](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READMX.md)
 
 
 Steemit中的通证分为三类：
