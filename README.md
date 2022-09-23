@@ -462,6 +462,17 @@ DeFi，一般是指基于智能合约平台构建的加密资产、金融类智�
 
 # 互联网目标
   
+  虚拟现实
+
+人工智能
+
+AI驱动的化身让每个用户都能生成准确的虚拟表象，最终成为数字仙人。
+
+区块链技术
+
+分布式账本技术为Sensorium Galaxy的所有价值交易增加了效率、透明度和安全性。
+
+  
 * ![图片](https://user-images.githubusercontent.com/79394963/188295808-5ed13433-2d7d-48e5-959c-2494ef44c1e6.png)
 
 * 互联网的便捷、即时与互动性，也催生了许多像MySpace、Facebook、Youtube、这样的虚拟社区及相应的网络文化，即時通訊軟件如WhatsApp、Wechat、Line，以及维基百科和维基媒體等自由協作式百科全書。同時，也帶來像Google Map、Google Earth及Google street view等提供全球地圖、全球衛星圖、城市街景等服務。無線網路的方便也帶來流動支付的盛行，比如Apple pay、Google pay、Samsung pay、Wechat pay、支付寶等服務
