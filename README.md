@@ -8,11 +8,12 @@
 
 Windows
 
+* ![图片](https://user-images.githubusercontent.com/79394963/192130416-9848644a-a80e-4391-a29e-f56e3fa7542c.png)
+
 
 * ![图片](https://user-images.githubusercontent.com/79394963/162755531-3137c714-97fb-451f-add5-3e3a01807da0.png)
 
-* ![图片](https://user-images.githubusercontent.com/79394963/192130416-9848644a-a80e-4391-a29e-f56e3fa7542c.png)
-
+* ![ Clash开发历程2018-2022致谢](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READMD.md)
 
 
 A Windows/macOS/Linux GUI
