@@ -31,6 +31,16 @@ mixinText: >+
       - https://1.0.0.1/dns-query
       - https://public.dns.iij.jp/dns-query
       - https://dns.twnic.tw/dns-query
+      - host-suffix, local, direct
+      - ip-cidr, 192.168.0.0/16, direct
+      - ip-cidr, 10.0.0.0/8, direct
+      - ip-cidr, 172.16.0.0/12, direct
+      - ip-cidr, 127.0.0.0/8, direct
+      - ip-cidr, 100.64.0.0/10, direct
+      - ip-cidr, 224.0.0.0/4, direct
+      - ip6-cidr, fe80::/10, direct
+      - ip-cidr, 203.107.1.1/24, reject
+      - ip-cidr, 183.240.197.130/32, direct
       - 8.8.8.8 # 谷歌DNS
       - 1.1.1.1 # Cloudflare DNS
       - tls://dns.rubyfish.cn:853
@@ -39,6 +49,29 @@ mixinText: >+
       - https://dns.rubyfish.cn/dns-query
       - https://cloudflare-dns.com/dns-query
       - https://dns.google/dns-query
+      - server=119.29.29.29
+      - address=/mtalk.google.com/108.177.125.188
+      - server=/dl.google.com/119.29.29.29
+      - server=/dl.l.google.com/119.29.29.29
+      - server=/update.googleapis.com/119.29.29.29
+      - server=/*.dl.playstation.net/119.29.29.29
+      - server=/amplifi.lan/system
+      - server=/router.synology.com/system
+      - server=/sila.razer.com/system
+      - server=/router.asus.com/system
+      - server=/routerlogin.net/system
+      - server=/orbilogin.com/system
+      - server=/www.LinksysSmartWiFi.com/system
+      - server=/LinksysSmartWiFi.com/system
+      - server=/myrouter.local/system
+      - server=/www.miwifi.com/system
+      - server=/miwifi.com/system
+      - server=/mediarouter.home/system
+      - server=/tplogin.cn/system
+      - server=/tplinklogin.net/system
+      - server=/melogin.cn/system
+      - server=/falogin.cn/system
+
   fallback-filter:
     geoip: false
     ipcidr:
@@ -190,6 +223,17 @@ mixinText: >+
             https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Google/Google.list, tag=Google (全家桶), force-policy=Google, update-interval=86400, opt-parser=false, enabled=true
             https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Global/Global.list, tag=Outside (境外网站), force-policy=Outside, update-interval=86400, opt-parser=false, enabled=true
             https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/China/China.list, tag=Mainland (大陆网站), force-policy=Mainland, update-interval=86400, opt-parser=false, enabled=true
+            https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list, tag=规则修正, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
+            https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list, tag=广告拦截, force-policy=reject, update-interval=172800, opt-parser=true, enabled=true
+            https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/AdvertisingPlus.list#type=domain-set, tag=广告拦截, force-policy=reject, update-interval=172800, opt-parser=true, enabled=true
+            https://raw.githubusercontent.com/NobyDa/Script/master/Surge/AdRule.list, tag=广告拦截, force-policy=reject, update-interval=172800, opt-parser=true, enabled=true
+            https://raw.githubusercontent.com/app2smile/rules/master/rule/tieba-ad-qx.list, tag=贴吧广告, force-policy=reject, update-interval=172800, opt-parser=false, enabled=true
+            https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list, tag=运营劫持, force-policy=reject, update-interval=172800, opt-parser=true, enabled=true
+            https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list, tag=隐私保护, force-policy=reject, update-interval=172800, opt-parser=true, enabled=true
+            https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/TikTok.list, tag=海外抖音, force-policy=全球加速, update-interval=172800, opt-parser=true, enabled=true
+            https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list, tag=全球加速, force-policy=全球加速, update-interval=172800, opt-parser=true, enabled=true
+            https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/Apple.list, tag=苹果服务, force-policy=苹果服务, update-interval=172800, opt-parser=true, enabled=true
+            https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list, tag=国内网站, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
             https://github.com/blackmatrix7/ios_rule_script/tree/master/rule
             ruleset=🎯 国内流量,https://raw.githubusercontent.com/cutethotw/ClashRule/main/Inside.list
             ruleset=🚀 国外流量,https://raw.githubusercontent.com/cutethotw/ClashRule/main/Outside.list
