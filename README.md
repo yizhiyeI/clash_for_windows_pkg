@@ -494,6 +494,50 @@ DeFi，一般是指基于智能合约平台构建的加密资产、金融类智�
 * ![图片](https://user-images.githubusercontent.com/79394963/192712448-795d2569-6f28-4980-ab00-89fdc4c16663.png)
 
 
+# 用户运营
+
+* ![图片](https://user-images.githubusercontent.com/79394963/192793923-cc83e126-544e-4cf5-b4c9-d6372885eb41.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/192794475-33aa60d1-f36e-4193-8cda-2840b13275bd.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/192794858-f096561f-b666-4dd7-9aa2-c29f63a66457.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/192795002-bb35ddda-96f1-4a47-a642-836aeba17cc4.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/192795235-a81771d1-2be0-4511-add7-89e05eb39204.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/192795601-f627fea2-a90b-4a12-8d6f-548b1a65381c.png)
+
+
+* ![图片](https://user-images.githubusercontent.com/79394963/192795907-e19a4eeb-f17e-4f74-b94d-b9190ee66f79.png)
+
+
+* ![图片](https://user-images.githubusercontent.com/79394963/192796016-86f72b3e-372d-4442-8721-459626efbeac.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/192796110-c620ab82-b3b2-4302-a468-1d14613ddf36.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/192796220-6c0b7004-561d-4066-b49f-21923b62fabd.png)
+
+
+* ![图片](https://user-images.githubusercontent.com/79394963/192796327-bd258ede-0eb6-4fd0-bc9d-eb1492983eae.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 # 密码学
  * ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220906/a1QQ浏览器截图20220906012830.es464zv8e8g.jpg)
