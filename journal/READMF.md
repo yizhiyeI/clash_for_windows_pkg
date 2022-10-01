@@ -12,3 +12,19 @@
 
 # 职业
 * 专业技术人员大类也就是二大类已经发布了15个新职业，包括人工智能、物联网、大数据、云计算、智能制造、工业互联网、虚拟现实、区块链、集成电路、机器人、增材制造、数据安全工程技术人员等等。除此以外，这次修订还增设了密码工程技术人员、碳管理工程技术人员、金融科技师等29个新的职业。
+
+# 工具丨链游（元宇宙）数据观察常用网站数据网站：
+
+* https://dappradar.com/rankings
+
+* https://cryptoslam.io/
+
+* https://playtoearn.net/blockchaingames
+
+* https://nonfungible.com/
+
+* https://www.blockchaingamealliance.org/
+
+* https://www.indexcoop.com/
+
+* https://messari.io
