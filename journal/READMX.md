@@ -240,6 +240,7 @@ DAS（数据可用性抽样，Data Availability Sampling）是解决区块链状
 
 区块链3.0：区块链在其他行业的应用。它更多地对应人类组织形态的变革，包括健康、科学、文化和基于区块链的司法、投票等。
 
+* ![图片](https://user-images.githubusercontent.com/79394963/193398262-1441d833-c685-41a3-9288-8560139b4c3b.png)
 
 
 # 分析公链L1层
