@@ -392,7 +392,7 @@ DeFi，一般是指基于智能合约平台构建的加密资产、金融类智�
 
 如何在规则下发挥效能才是企业家们下一步的挑战。而自身个人的想法作为用户，巨头收集我们的数据用做大数据，产品分为国内和国际版不一，利益导致喂给信息垃圾，但又离不开它们。
 
-* ![图片](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READMF.md)
+* ![相关信息汇总](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READMF.md)
 
 
 
