@@ -46,6 +46,19 @@ mixinText: >+
       - tls://dns.rubyfish.cn:853
       - tls://1.0.0.1:853
       - tls://dns.google:853
+      # 腾讯DoH DNS Server地址
+      - https://doh.pub/dns-query
+      - https://sm2.doh.pub/dns-query
+      # 腾讯DoT DNS Server地址
+      - tls://dot.pub
+      # 阿里DoH DNS Server地址
+      - https://dns.alidns.com/dns-query
+      # 阿里DoT DNS Server地址
+      - tls://dns.alidns.com
+      # 360 DoH DNS Server地址
+      - https://doh.360.cn
+      # 360 DoT DNS Server地址
+      - tls://dot.360.cn
       - https://dns.rubyfish.cn/dns-query
       - https://cloudflare-dns.com/dns-query
       - https://dns.google/dns-query
@@ -71,7 +84,10 @@ mixinText: >+
       - server=/tplinklogin.net/system
       - server=/melogin.cn/system
       - server=/falogin.cn/system
-
+      # Google DoH DNS Server地址
+      - https://dns.google/dns-query
+      # Google DoT DNS Server地址
+      - tls://dns.google
   fallback-filter:
     geoip: false
     ipcidr:
@@ -13149,3 +13165,4 @@ mixinText: >+
 profileParsersText: |
   parsers: # array
 randomMixedPort: false
+connChainType: 1
