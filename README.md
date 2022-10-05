@@ -531,6 +531,14 @@ DeFi，一般是指基于智能合约平台构建的加密资产、金融类智�
 
 
 
+# 用户社群运营
+
+
+* ![图片](https://user-images.githubusercontent.com/79394963/194071248-9b2f2406-c886-4f4d-b9b2-0f6cbb936359.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/194071469-e438c299-2106-4557-b06a-228066709b01.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/194071557-545807a8-2e76-42e7-91b2-2c3014a90cf4.png)
 
 
 
