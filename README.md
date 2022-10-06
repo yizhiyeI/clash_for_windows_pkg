@@ -265,7 +265,7 @@ dns查询
 去中心化，是Web3的精神所在，也是互联网的核心，去中心化体现在两层：一层是社会范围，第二层是Web3本身，它的核心思想是信奉去中心化
 
 * ![区块链](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READMX.md)
-* ![区块链经济委员会模型](https://buidlerdao.notion.site/0c1c683e29af48c0a3134fbea9ded822)
+* ![区块链经济委员会模型]  https://buidlerdao.notion.site/0c1c683e29af48c0a3134fbea9ded822
 
 Steemit中的通证分为三类：
 
