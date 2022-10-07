@@ -305,7 +305,7 @@ Web 3.0时代的到来颠覆了Web 2.0时代以平台为中心的多种业态和
 
 * ![Web3](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/README.md)
 
-* ![Web3相关课程整理](https://triangular-jitterbug-cd5.notion.site/Web3-Dapp-9ad05eb869a34983bb87c073faedc5a6)
+* ![Web3相关课程整理] https://triangular-jitterbug-cd5.notion.site/Web3-Dapp-9ad05eb869a34983bb87c073faedc5a6
 
 
 
