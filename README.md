@@ -305,6 +305,8 @@ Web 3.0时代的到来颠覆了Web 2.0时代以平台为中心的多种业态和
 
 * ![Web3](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/README.md)
 
+* ![Web3相关课程整理](https://triangular-jitterbug-cd5.notion.site/Web3-Dapp-9ad05eb869a34983bb87c073faedc5a6)
+
 
 
 在Web 3.0时代，用户的数据将属于用户自己，而不属于某个互联网公司或平台，用户拥有对自己数据的自主权，当用户的数据产生价值时，用户自己也能获得相应的价值回报。中国证监会科技监管局局长姚前对于Web 3.0是这样描述的：
