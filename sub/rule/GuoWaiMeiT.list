@@ -252,6 +252,38 @@ mixinText: >+
             https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/China.list, tag=国内网站, force-policy=direct, update-interval=172800, opt-parser=true, enabled=true
             https://github.com/blackmatrix7/ios_rule_script/tree/master/rule
             https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block.txt
+            https://raw.githubusercontents.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Unbreak.list, tag=Unbreak, force-policy=direct, enabled=true
+            https://raw.githubusercontents.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Advertising/Hijacking.list, tag=Hijacking, enabled=true
+            https://raw.githubusercontents.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Advertising/AdReject.list, tag=Advertising, enabled=true
+            https://raw.githubusercontents.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/SNS/Telegram.list, tag=Telegram, force-policy=Telegram, enabled=true
+            https://raw.githubusercontents.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Media/Foreign/Netflix.list, tag=Netflix, enabled=true
+            https://raw.githubusercontents.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Google.list, tag=Google, enabled=true
+            https://raw.githubusercontents.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Media/Foreign/Pornhub.list, tag=PornHub, enabled=true
+            https://raw.githubusercontents.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Cloudflare.list, tag=CloudFlare, enabled=true
+            https://raw.githubusercontents.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Media/DomesticMedia.list, tag=DomesticMedia, force-policy=direct, enabled=true
+            https://raw.githubusercontents.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Media/ForeignMedia.list, tag=ForeignMedia, force-policy=proxy, enabled=true
+            https://raw.githubusercontents.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/Global.list, tag=Global, force-policy=proxy, enabled=true
+            https://raw.githubusercontents.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Apple.list, tag=Apple, force-policy=direct, enabled=true
+            https://raw.githubusercontents.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Services/Microsoft.list, tag=Microsoft, force-policy=direct, enabled=true
+            https://raw.githubusercontents.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/China.list, tag=Domestic, force-policy=direct, enabled=true
+            https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list, tag=ASN, force-policy=ASN, update-interval=172800, opt-parser=true, enabled=true
+            https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AppStore/AppStore.list, tag=App store, update-interval=172800, opt-parser=false, enabled=true
+            https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Wikimedia/Wikimedia.list, tag=维基百科, update-interval=172800, opt-parser=false, enabled=true
+            https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Disney/Disney.list, tag=迪士尼, force-policy=Disiney, update-interval=172800, opt-parser=false, enabled=true
+            https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Netflix/Netflix.list, tag=奈飞, update-interval=172800, opt-parser=false, enabled=true
+            https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Weibo/Weibo.list, tag=微博, update-interval=172800, opt-parser=false, enabled=true 
+            https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/AppleMusic/AppleMusic.list, tag=苹果音乐, update-interval=172800, opt-parser=false, enabled=true
+            https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Facebook/Facebook.list, tag=Facebook, update-interval=172800, opt-parser=false, enabled=true
+            https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Telegram/Telegram.list, tag=telegram, update-interval=172800, opt-parser=false, enabled=true
+            https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/PayPal/PayPal.list, tag=paypal, update-interval=172800, opt-parser=false, enabled=true
+            https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Steam/Steam.list, tag=steam, update-interval=172800, opt-parser=false, enabled=true
+            https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/YouTube/YouTube.list, tag=YouTube, update-interval=172800, opt-parser=false, enabled=true
+            https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Google/Google.list, tag=Google, update-interval=172800, opt-parser=false, enabled=true
+            https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Blizzard/Blizzard.list, tag=暴雪, update-interval=172800, opt-parser=false, enabled=true
+            https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/Discord/Discord.list, tag=discord, update-interval=172800, opt-parser=false, enabled=true
+            https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BiliBili/BiliBili.list, tag=bilibili, update-interval=172800, opt-parser=false, enabled=true
+            https://limbopro.com/Adblock4limbo.list, tag=毒奶特供, force-policy=🛑 广告拦截, enabled=true
+            https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt, tag=野比(6W+), force-policy=🛑 广告拦截, update-interval=172800, opt-parser=false, enabled=true
             ruleset=🎯 国内流量,https://raw.githubusercontent.com/cutethotw/ClashRule/main/Inside.list
             ruleset=🚀 国外流量,https://raw.githubusercontent.com/cutethotw/ClashRule/main/Outside.list
             ruleset=🎯 国内流量,clash-classic:https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Clash/Lan/Lan.yaml
