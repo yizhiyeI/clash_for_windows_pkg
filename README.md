@@ -21,6 +21,7 @@ A Windows/macOS/Linux GUI
 
 * ![图片](https://cdn.staticaly.com/gh/mj5219054/friendly-journey@main/20220810/a1QQ图片20220810230049.43gweh8ptms0.jpg)
 
+* ![IP的知识](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READTF.md)
 
 
 based on Clash and Electron.
