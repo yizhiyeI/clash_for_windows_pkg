@@ -377,6 +377,8 @@ Total Revenue = Supply-side Revenue + Protocol Revenue
 
 # Web3 岗位库与人才库 https://abetterweb3.notion.site/
 
+* ![创立w3公司需要的工具](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READMA.md)
+
 
 
 
