@@ -241,6 +241,41 @@ Web 3.0的历史和争论
 分布式数据库：万维数据库（“World Wide Database”，由语义网的技术实现）。
 智能应用程序：普通语言的处理[14]，机器学习，机器推理，自主代理
 
+
+# Web 3.0 的定义：互联网阶段式周期性发展的必要阶段
+
+* web 3.0是基于现在的传统互联网（web 2.0)的全新网络发展水平。Web 3.0将使用全新的范式来覆盖如今的互联网巨头垄断局面，保护每一个互联网用户的利益；目标是建立统一身份认证系统，数据确权与授权，实现去中心化运行、隐私保护与抗审查
+
+* ![图片](https://user-images.githubusercontent.com/79394963/196617161-c4205e7a-275d-40ec-90e2-ebb7f79ef089.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/196617235-da17c157-1dc0-4c73-a5c3-c57ee66d7ce9.png)
+
+Web 3.0产业布局：垂直行业概览
+
+为了找到垂直行业，使用了the block research提供的全景图，其中包括Web 3.0的分析。这些垂直行业是：交易/经济、基础设施、加密金融服务、数据和分析、链游
+
+
+* ![图片](https://user-images.githubusercontent.com/79394963/196617352-85030705-2e4c-43f5-9de8-673eb1a6a6c2.png)
+
+
+* ![图片](https://user-images.githubusercontent.com/79394963/196617430-836996d8-302f-408b-9dd8-7ac27062fecb.png)
+
+# Web 3.0成为投资、创新新方向
+
+* ![图片](https://user-images.githubusercontent.com/79394963/196617595-411e861f-5405-4ac6-884b-6d17e7176bc6.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/196617985-63bd3256-7932-4c48-aa05-45a782d1d2e4.png)
+
+展望Web 3.0 平等 安全 便捷
+
+针对目前互联网出现的诸多问题，注入需要重复注册账号，服务商滥用用户隐私数据、网络公司使用用户数据盈利、网络服务无法延续等问题，都可以通过Web 3.0来解决
+
+* ![图片](https://user-images.githubusercontent.com/79394963/196617692-43a019b9-e4c3-4404-8a7b-fbd562404189.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/196617751-77ae7ace-8172-4dbb-ae1e-5bdecb288e03.png)
+
+
+
 # WEB 3.0 是什么
 
 1. 从 1.0 到 3.0 ：
