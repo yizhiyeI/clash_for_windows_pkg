@@ -374,6 +374,12 @@ Total Revenue = Supply-side Revenue + Protocol Revenue
 
 * 2022年，Web3 公司已经具备了商业模式，和创造巨额收入的能力。如何为收入找到对社区，甚至是社会，更有价值的分配方式，是一个艰难的任务。有的协议将收入据为己有，有的协议将其保留在treasury选择观望，有的选择将收入回馈社区。当然，也有项目选择回避披露，用各种方式掩盖自己获取利益
 
+
+# Web3 岗位库与人才库 https://abetterweb3.notion.site/
+
+
+
+
  巨头垄断的世界, Web3初印象
 
 * ![图片](https://user-images.githubusercontent.com/79394963/191682373-702d630e-4b98-47c0-983e-2d3522012b77.png)
