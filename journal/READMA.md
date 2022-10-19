@@ -259,4 +259,5 @@ Web3 的特点是去中心化和自由，但不要忘记管理现金流。你将
 
 # 竞争对手
 
-* 
+* ![图片](https://user-images.githubusercontent.com/79394963/196621078-4d8adbef-3249-43fa-8278-965681a4f747.png)
+
