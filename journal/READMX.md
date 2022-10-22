@@ -803,6 +803,41 @@ DeFi用户的地理位分布（根据DeFi用户调查）
 ### 工作就是找到天才中的天才，让他们引领我们。
 
 
+### 经常找项目的网站
+
+defillama.com/airdrops 可能会空投的项目
+
+airdrops.io/speculative 潜在的空投项目
+
+cypherhunter.com/en 最新的融资信息
+galxe.com/spaces 银河NFT
+dune.xyz 项目数据分析
+还有就是各种推特帐号，各种微信群
+8、lens签署过协议的可拿此角色：
+https://guild.xyz/early-bloomer
+9、https://alchemyu.typeform.com/alchemyu-early?typeform-source=t.co
+炼金术新NFT申请
+10、Noox上线了renft系列的徽章
+https://noox.world/collection/re-nft-collection https://twitter.com/noox_world/status/1583080316142354432
+11、7个Fuel生态项目
+https://bitalknews.notion.site/bitalknews/712e532df7a1487db22711f8174848b3?v=2b0d3ab362f14dd6a7ae7a5b75852966
+12、Devium发布了一个社交燕麦，简单任务可以做下 后续有testnet
+https://galxe.com/Devium/campaign/GCtttUwLAH
+13、最近发空投的有点多呢，Across跨链桥发空投了$ACX https://across.to/airdrop 连接DC 查询代币数量 「现在只能查数量还不能claim」
+14、OmniFlix最后一个测试网活动，OmniFlix's testnet FlixNet-4
+流程比较麻烦，有时间的可以做做https://mirror.xyz/omniflixnetwork.eth/BhJF3uKDCQqbfihwJrYzUZYCsaYfj1_NDAe8sYFknFo
+15、OP版奥德赛Optimism Quest连载教程。消耗最小的钱，拿最多的NFT。s
+https://mirror.xyz/lixiangguo.eth/d8AjCRS51q0eL5x4ZH6BW5vmWhRrEIrRLsdEighdHYA
+16、nfttrack的网页版Alpha测试申请
+https://app.nfttrack.ai/，链接钱包发推验证
+17、今晚12点，提前准备好apt
+https://bluemove.net/launchpad-detail/bigfoot-town
+18、zkSync测试币领取链接：
+1. https://zksync2-ethdrop.herokuapp.com
+2. https://faucet.paradigm.xyz
+3. https://goerlifaucet.com
+4. https://faucet.zkape.io
+5. https://goerlifaucet.com
 
 
 
