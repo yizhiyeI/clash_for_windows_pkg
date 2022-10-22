@@ -821,7 +821,7 @@ https://guild.xyz/early-bloomer
 
 * 9、https://alchemyu.typeform.com/alchemyu-early?typeform-source=t.co
 
-* 炼金术新NFT申请
+# 炼金术新NFT申请
 
 * 10、Noox上线了renft系列的徽章 https://noox.world/collection/re-nft-collection https://twitter.com/noox_world/status/1583080316142354432
 11、7个Fuel生态项目
@@ -839,6 +839,22 @@ https://galxe.com/Devium/campaign/GCtttUwLAH
 
 * 17、今晚12点，提前准备好apt https://bluemove.net/launchpad-detail/bigfoot-town
 
+
+# Evmos空投】
+
+osmosis：https://app.osmosis.zone/
+
+Evmos空投查询：https://gotrekt.com/
+
+质押/投票网址：https://evmos.disperze.network/
+
+# 【Cosmos生态质押节点挑选】
+
+节点查询：https://www.mintscan.io/cosmos/validators
+
+空投项目查询：https://cosmosuplink.web.app/airdrops
+
+Cosmos空投信息表格：https://docs.google.com/spreadsheets/d/1CjRglycJ8DwJ4-ZE5PUwSFh3wGgEkfc_u52-YlripGw/htmlview
 
 
 
