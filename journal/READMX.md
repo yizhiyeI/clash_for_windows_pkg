@@ -824,10 +824,10 @@ https://guild.xyz/early-bloomer
 # 炼金术新NFT申请
 
 * 10、Noox上线了renft系列的徽章 https://noox.world/collection/re-nft-collection https://twitter.com/noox_world/status/1583080316142354432
-11、7个Fuel生态项目
-https://bitalknews.notion.site/bitalknews/712e532df7a1487db22711f8174848b3?v=2b0d3ab362f14dd6a7ae7a5b75852966
-12、Devium发布了一个社交燕麦，简单任务可以做下 后续有testnet
-https://galxe.com/Devium/campaign/GCtttUwLAH
+
+* 11、7个Fuel生态项目 https://bitalknews.notion.site/bitalknews/712e532df7a1487db22711f8174848b3?v=2b0d3ab362f14dd6a7ae7a5b75852966
+
+* 12、Devium发布了一个社交燕麦，简单任务可以做下 后续有testnet https://galxe.com/Devium/campaign/GCtttUwLAH
 
 * 13、最近发空投的有点多呢，Across跨链桥发空投了$ACX https://across.to/airdrop 连接DC 查询代币数量 「现在只能查数量还不能claim」
 
@@ -842,19 +842,20 @@ https://galxe.com/Devium/campaign/GCtttUwLAH
 
 # Evmos空投】
 
-osmosis：https://app.osmosis.zone/
+* osmosis：https://app.osmosis.zone/
 
-Evmos空投查询：https://gotrekt.com/
 
-质押/投票网址：https://evmos.disperze.network/
+* Evmos空投查询：https://gotrekt.com/
+
+* 质押/投票网址：https://evmos.disperze.network/
 
 # 【Cosmos生态质押节点挑选】
 
-节点查询：https://www.mintscan.io/cosmos/validators
+* 节点查询：https://www.mintscan.io/cosmos/validators
 
-空投项目查询：https://cosmosuplink.web.app/airdrops
+* 空投项目查询：https://cosmosuplink.web.app/airdrops
 
-Cosmos空投信息表格：https://docs.google.com/spreadsheets/d/1CjRglycJ8DwJ4-ZE5PUwSFh3wGgEkfc_u52-YlripGw/htmlview
+* Cosmos空投信息表格：https://docs.google.com/spreadsheets/d/1CjRglycJ8DwJ4-ZE5PUwSFh3wGgEkfc_u52-YlripGw/htmlview
 
 
 
