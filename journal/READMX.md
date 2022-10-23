@@ -865,6 +865,830 @@ https://gitcoin.co/
 https://zigzag.exchange
 
 
+# 1.必备工具
+
+* VPN梯子：http://www.btcwbo.com/2722.html
+
+* 钱包：Metamask IMtoken Token pocket
+* 聊天：DISCORD [翻译机]
+
+* 浏览器：谷歌
+
+* 2.交易大所：
+
+* 币安交易所永久20%手续费优惠减免链接：
+https://www.binancezh.top/zh-CN/register?ref=EP4I4ZUH
+注册遇到困难，看教程：http://www.btcwbo.com/94.html
+
+* 欧易OKX最高返佣注册链接：
+https://www.ouyicn.fund/join/14132923
+
+* 全球前三大所比特币交易所，邮箱注册，正常实名。教程无论新老用户均可获全球最高20%永久手续费减免（The link above can get up to 20% permanent fee reduction）
+【币安减免码：EP4I4ZUH】【欧易okx减免码：14132923】
+
+# 3.币种资讯
+Coingecko Coinmarketcap Coinglass 注：前2个输币名，查官网、合约地址等一切信息；后一个查看币市各项数据指标。
+uniswap.org 、sushi.com [教程] 未上所新币查到合约后可DEX直接购买。
+# 4.NFT
+NFT信息最全面查询：NFTpf
+NFT分析平台：https://nftgo.io/
+
+# 5.链游Gamefi
+聚合链游：https://www.formless.me/home
+
+6.其他神器：
+
+# K线：Tradingview  dexscreener
+
+* DAPP：Dappradar
+
+* 9神指数 ：ahr999囤币指标
+
+* 代币解锁时间查询：https://vestlab.io/
+* 审查项目合约：https://gopocket.security/
+
+* token解锁时间查询https://token.unlocks.app
+
+
+# .使用twitter列表。
+这是一项基本技能，但大多数人都懒得这样做。为了快速浏览不同的部门、链接等，您需要根据类别组织这些列表。我将在接下来的几周内公布我的列表。
+
+Eth
+
+# 2.使用Twetdeck。
+如果你想组织你看到的加密内容，这是必不可少的。您可以在twetdeck中添加任何人的公共列表。如果您不使用twetdeck列，您将无法最大限度地提高列表的有效性。
+其他列提示：
+添加您想要监控的现金标签作为列，但修改设置以过滤最吸引人的推特。例如，至少有10个RTS/likes。我会静音各种单词，如礼物、竞争、白名单等。这有助于消除噪音。
+
+Eth
+
+有时也值得添加关键叙事作为专栏。如Avax子网、ETH合并、稳定货币战争等。这将帮助你理解一些叙事强度。
+* 3.通知关键个人和账户。
+加密货币的信息速度就像闪电。如果你是交易员，那就更重要了。我采取了一些策略:
+我把@peckshield放在通知栏里，因为它们通常是最快发布defi漏洞的地方。我可以从这个账户的通知中捕捉到一些卖空的机会。
+
+.使用twitter列表。
+这是一项基本技能，但大多数人都懒得这样做。为了快速浏览不同的部门、链接等，您需要根据类别组织这些列表。我将在接下来的几周内公布我的列表。
+
+Eth
+
+# 2.使用Twetdeck。
+如果你想组织你看到的加密内容，这是必不可少的。您可以在twetdeck中添加任何人的公共列表。如果您不使用twetdeck列，您将无法最大限度地提高列表的有效性。
+其他列提示：
+添加您想要监控的现金标签作为列，但修改设置以过滤最吸引人的推特。例如，至少有10个RTS/likes。我会静音各种单词，如礼物、竞争、白名单等。这有助于消除噪音。
+有时也值得添加关键叙事作为专栏。如Avax子网、ETH合并、稳定货币战争等。这将帮助你理解一些叙事强度。
+
+# 3.通知关键个人和账户。
+
+加密货币的信息速度就像闪电。如果你是交易员，那就更重要了。我采取了一些策略:
+我把@peckshield放在通知栏里，因为它们通常是最快发布defi漏洞的地方。我可以从这个账户的通知中捕捉到一些卖空的机会。
+
+
+# 1 中心化大所
+
+币安（全球第一） 欧易（中国第一） 芝麻开门（山寨币数量最多） FTX（金融衍生品第一）
+
+抹茶（山寨币上新最快） Bybit（香港台湾日本韩国）
+
+库币 ：最好的币安代替品/支持币安国际版被封的地区和国家/现货交易量全球第三/百倍合约/山寨币上新快
+
+币安国际版被封国家和地区： 美国/新加坡/马来西亚/香港/澳大利亚/英国/泰国/日本/土耳其/韩国/加拿大安大略 美国/土耳其等国币安都是阉割版本无全部功能
+
+中国大陆注册币安国际版方法：币安交易所新号注册及身份证KYC过审
+
+交易所详细对比分析
+
+# 2 数据
+
+币种资讯：1非小号 2coinmarketcap 3coingecko
+
+巨鲸追踪：1前100名比特币巨鲸追踪 2 前1000名以太坊钱包追踪
+
+3各类鲸鱼追踪Kingdata 4恐惧和贪婪指数alternative
+
+数据大全： 合约数据大全bybt 各类金融数据画线工具tradeview
+
+付费高端加密市场数据Glassnode 链上大额转账监控Whalealert
+
+# 3 新闻媒体
+
+* 优质中文： 1巴比特 2金色财经 3odaily
+
+* 优质英文：1Coindesk 2Cointelegraph
+
+# 4 NFT工具
+
+* NFT龙头交易平台Opensea 查看Mint趋势IcyTool NFT稀有度查询 Rarity
+
+* 追踪NFT巨鲸和查找新项目NFTgo 计算NFT盈利情况NFTbank
+
+* 以太坊燃烧排名ultrasound.money 艺术家和作品排名CryptoArt
+
+# 5 DAO工具
+
+* 项目社区投票治理平台 ：1Snapshot 2Tally
+
+* DAO管理工具daomaster DAO生态数据门户Deepdao
+
+* DAO孵化和启动项目Daomaker Dao2Dao产品和服务Daocentral
+
+# 6 Defi工具
+
+* 以太坊/dex龙头交易所Uniswap BSC币安智能链龙头交易所Pancakeswap 去中心化合约交易所 Dydx Dex综合K线工具DEXtools Defi项目市场数据 Defipulse 查看质押收益APY
+
+# 7跨链
+
+* 支持多种公链互跨Swft 跨链手续费计算Crosschaintool 多种币种跨链闪兑Anyswap
+
+# 8加密钱包
+
+* 软件钱包 1Tokenpocket 2Metamask 3Iamtoken
+
+* 硬件钱包 1比特护盾 2Onekey 3Ballet
+
+# 9顶级投资机构
+
+* 1币安实验室 2Coinbase 3三箭资本 4A16z 5 Alameda-research 6multicoin.capital
+
+本文不构成投资建议，虚拟货币波动大请谨慎小心
+掌握虚拟货币、区块链大小事每日更新
+
+推特：https://twitter.com/cryptomushao
+
+电报：https://t.me/btc66668888
+
+区块链姆少禁言群汇集了众多大佬的付费信息，价值约20万人民币付费社群内容 ，包括 Nansen 、头等舱研报 、本末区块、知识星球、芥末圈、蓝狐笔记、 区块链三刀、零X干货铺、掘金之路等。
+
+
+
+
+推荐交易所
+
+一线交易所
+
+Bybit——Bybit（10％返现） 合约功能最强深度好/无kyc非中美加新IP可用 邀请码 31246 赠送最高$3000体验金 香港/台湾/日本/韩国/欧洲/马来西亚/澳洲热门 bybit.com
+
+欧易OKX——综合实力中国大陆第一交易所/2013年成立/大陆正常人民币出入金/现货合约20％永久返现邀请码 3819028083 带邀请码注册地址 okx.com
+
+库币Kucoin——适合美国/新加坡/加拿大安大略/等币安国际版被限制的国家和地区/全球现货交易量第三/最好的币安替代交易所/山寨币多20％永久返现邀请码QBSSSE3G 非kyc可以正常使用 带邀请码注册地址 kucoin.com
+
+币安Binance——全球综合实力第一的交易所 10％永久返现邀请码LFX8Q0ZA 带邀请码注册地址 binance.com 推荐文章：币安交易所新号注册及身份证KYC过审 中国大陆币安KYC
+
+二线交易所
+
+芝麻开门Gate——山寨币最多/千种山寨币/2013老平台/有交流贴吧/20％永久返现20％邀请码4029869 带邀请码注册地址 gate.com
+
+抹茶Mexc——山寨币上新最快的加密货币平台/百倍合约/永久返现10％邀请码mexc-123456 注意：非美国/中国Ip地址+可非kyc认证使用+推荐gmail/outlook邮箱注册 带邀请码注册地址 mexc.com
+
+派网Pionex——最好的量化交易平台/币圈被动收入神器，14种自动交易机器人指南，全年无休帮你打工！(网格交易、天地单、屯币宝…) 邀请码 4nNlz9Wc 注意：非美国/中国Ip地址+可非kyc认证使用+推荐gmail/outlook邮箱注册 带邀请码注册地址 pionex.com
+
+派可Picol（大陆版派网） 邀请码d6YuXZ83 注册地址 picol.com
+
+FTX——适合专业度高的投资者的平台/股权通证（相当于直接买美股）/预测类产品/波动类产品/101倍杠杆/5％永久返现邀请码34929820 注意IP不要在美国 带邀请码注册地址 ftx.com
+
+火币Huobi——APP内自带24小时资讯播报/手机币种悬浮窗实时盯盘/海外华人最爱使用的老牌交易所之一 邀请码gmmk4223 带邀请码注册地址 huobi.com
+
+Deribit——最好的比特币以太坊期权平台/市场占有率75％以上/邀请码16416.9006 带邀请码注册地址 deribit.com
+
+
+1、行情工具
+币看（http://www.bitkan.com/）
+
+老牌行情工具，app也有资讯
+
+
+
+MyToken（http://app.mytoken.io）
+
+数千种数字货币行情和交易所上新信息，主打移动端
+
+
+
+非小号（https://www.feixiaohao.com）
+
+全球行情以及各平台交易状况
+
+
+
+BTC123行情汇（https://www.btc123.com/trades）
+
+主流币种的实时价格汇总和行情图表
+
+
+
+CoinMarketcap（https://coinmarketcap.com）
+
+全球最知名的行情和趋势网站，提供全球币种市值、涨跌幅数据
+
+
+
+cryptocompare（https://www.cryptocompare.com/）
+
+展示及时权威的加密货币实时价格，进行市场分析，并提供采矿相关数据
+
+
+
+Cryptowatch（https://cryptowat.ch/）
+
+以非常精简的页面展示加密货币的实时行情
+
+
+
+WorldCoinIndex（https://www.worldcoinindex.com/）
+
+加密货币实时行情，以BTC和13种法定货币显示
+
+
+
+Cryptalert（https://cryptalert.com/）
+
+为自己关注的加密货币设置提醒功能，不错过任何一次投资机会
+
+
+
+2、交易相关
+火币Pro（https://www.huobi.pro）
+
+支持法币、币币和杠杆交易，适合新手
+
+
+
+币安（https://www.binance.com）
+
+全球最大的交易所之一，适合老手
+
+
+
+OKEX（https://www.okex.com）
+
+支持法币交易、币币交易、合约交易
+
+
+
+ZB（https://www.zb.com）
+
+支持现货交易、杠杆交易，适合新手
+
+
+
+比特儿（https://gate.io）
+
+支持法币交易、币币交易、场外交易，操作简单
+
+
+
+Bithumb（https://www.bithumb.com）
+
+韩国最大的交易所，支持中文
+
+
+
+Bitfinex （https://www.bitfinex.com）
+
+支持期货和杠杆交易，支持中文
+
+
+
+Poloniex （https://poloniex.com）
+
+用户量大，山寨币多
+
+
+
+Bittrex （https://bittrex.com）
+
+支持数百个交易对，英文页面
+
+
+
+Bitstamp（https://www.bitstamp.net）
+
+欧洲老牌交易所，大额交易十分方便
+
+
+
+bitFlyer（https://bitflyer.jp/zh-CN/）
+
+日本最大的交易网站，支持中文
+
+
+
+Altpocket（https://altpocket.io/）
+
+支持导入多个交易所信息，集中管理你的投资组合
+
+
+
+3、实用钱包
+Bitcoin core（https://bitcoin.org/zh_CN/download）
+
+老牌比特币全节点钱包
+
+
+
+imToken（https://token.im/）
+
+国内最受欢迎的以太系钱包，支持ERC20代币
+
+
+
+比特派（http://bitpie.com/）
+
+多链钱包，支持BTC、ETH在内的20多个币种
+
+
+
+Jaxx（https://jaxx.io/）
+
+多平台，支持30多个币种
+
+
+
+http://Blockchain.info（https://blockchain.info/zh-cn/wallet/#/）
+
+比特币轻钱包，被称为是比特币网络最权威的钱包
+
+
+
+Qbao（https://qbao.fund/#/home）
+
+基于量子链，支持所有基于量子链的数字货币
+
+
+
+Kcash（https://www.kcash.com/）
+
+多链钱包，支持20多种数字货币
+
+
+
+AToken（https://www.atoken.com/）
+
+多链钱包，支持包括BTC、LTC、ETH等60种数字货币
+
+
+
+Litecoin（https://litecoin.org/cn/）
+
+莱特币官方开源钱包
+
+
+
+比特现金钱包（https://wallet.btc.com/#/setup/register）
+
+http://BTC.COM提供的BTH网页钱包
+
+
+
+Trezor Hardware（https://trezor.io/）
+
+最好用的硬件钱包之一
+
+
+
+4、中文资讯
+链向财经（https://www.chainfor.com）
+
+行业资深团队创办
+
+
+
+币世界（http://www.bishijie.com）
+
+以时间轴专门推送快讯，消息又快又多
+
+
+
+金色财经（http://www.jinse.com）
+
+区块链资讯网站
+
+
+
+九个亿财经（http://www.jgy.com/）
+
+提供财经资讯、行情等信息
+
+
+
+铅笔（http://chainb.com/）
+
+提供时事资讯和行情分析
+
+
+
+比特币之家（http://www.btc798.com/）
+
+新推出分叉信息板块
+
+
+
+区块链时代（http://block001.cn）
+
+深度挖掘区块链行业的动态
+
+
+
+每日币读（http://www.coindaily.io）
+
+币读的评级资讯网站，项目信息很全面
+
+
+
+5、论坛群组
+巴比特（http://www.8btc.com/）
+
+中国最大的比特币区块链论坛
+
+
+
+币源社区（https://www.coingogo.com）
+
+区块链比特币综合论坛
+
+
+
+币乎（https://bihu.com）
+
+号称是币圈知乎，模式类似steemit，写文章和点赞可获得赏金
+
+
+
+彩云比特（http://www.cybtc.com/）
+
+中国第一家比特币矿机专业媒体资讯和论坛
+
+
+
+Bitcointalk（https://bitcointalk.org）
+
+全球最大的比特币论坛
+
+
+
+/r/Bitcoin/（https://www.reddit.com/r/Bitcoin/）
+
+比特币reddit社区
+
+
+
+Google社区（https://plus.google.com/communities/115591368588047305300）
+
+Google+比特币社区
+
+
+
+bitcoinwiki（https://en.m.bitcoinwiki.org/wiki/Main_Page）
+
+比特币的百科，由社区成员协同编写
+
+
+
+Crypto Trading Advice（https://t.me/cryptotradingadvice）
+
+一个专门提供加密货币市场趋势分析的电报群
+
+
+
+Trollbox（https://www.thetrollbox.net）
+
+一个加密货币的在线聊天室，还提供数字货币的行情实时图表
+
+
+
+6、外文资讯
+Coindesk（https://www.coindesk.com）
+
+加密资产和区块链技术社区领先的数字媒体，有超过1000万独立访客
+
+
+
+Cointelegraph（https://cointelegraph.com）
+
+专注于研究数字货币的发展趋势
+
+
+
+CryptoAnalyst（http://www.cryptoanalyst.co/）
+
+加密货币的新闻资讯和分析
+
+
+
+CoinTerminal（https://site.cointerminal.co/）
+
+展示加密货币市场的各种实时消息
+
+
+
+Bitcoin Magazine（https://bitcoinmagazine.com）
+
+第一本比特币专业杂志， 2012年由V神和同伴创立
+
+
+
+Coin Speaker（https://www.coinspeaker.com）
+
+2014年成立，每月有超过450,000独立访问
+
+
+
+Bitcoinist（http://bitcoinist.com）
+
+每日更新全球数字货币以及区块链资讯
+
+
+
+CCN（https://www.ccn.com）
+
+数字货币的新闻和分析
+
+
+
+http://Bitcoin.com（https://news.bitcoin.com）
+
+提供BTC相关的全球资讯
+
+
+
+99 Bitcoins（https://99bitcoins.com）
+
+针对非技术读者的数字货币媒体，适合小白同学入门
+
+
+
+CoinBuzz.stream（https://coinbuzz.stream/）
+
+从推特、Reddit、Google Trends 收集的BTC、ETH和LTC的新闻汇总，还设立了讨论区
+
+
+
+ETHNews（https://www.ethnews.com）
+
+以太坊、区块链新闻收集汇总
+
+
+
+coincalendar （http://www.coincalendar.info/）
+
+在线加密货币日历，提供比特币和其他数字货币的事件日历，包括分叉、大事件等
+
+
+
+CryptoPanic（https://cryptopanic.com/news?filter=trending）
+
+聚合可能对加密货币市场产生影响的新闻
+
+
+
+CryptoBuzz（https://cryptobuzz.io/）
+
+有关比特币和区块链的小道新闻
+
+
+
+ICO Alert（https://www.icoalert.com/）
+
+加密货币ICO项目进展情况
+
+
+
+ICO地图（https://www.ico-map.io/）
+
+提供全世界ICO项目的进行情况
+
+
+
+7、挖矿相关
+WhatToMine（https://whattomine.com/）
+
+选择利润最高的数字货币进行挖矿，币种非常全
+
+
+
+CoinWarz（https://www.coinwarz.com/cryptocurrency）
+
+挖矿利润计算器
+
+
+
+挖矿计算器（https://btc.com/tools/mining-calculator）
+
+PPS 模式下的挖矿预计收益计算工具
+
+
+
+鱼池（https://www.f2pool.com/）
+
+中国第一家比特币矿池
+
+
+
+蚂蚁矿池（https://www.antpool.com/home.htm）
+
+比特大陆旗下的矿池
+
+
+
+BTC矿池（https://pool.btc.com/）
+
+矿池算力占比TOP3
+
+
+
+莱比特矿池（http://www.btc.top/）
+
+比特币矿池
+
+
+
+Hashnest（https://www.hashnest.com/）
+
+比特币云挖矿平台
+
+
+
+http://BitcoinMining.com（https://www.bitcoinmining.com/）
+
+科普挖矿的相关知识
+
+
+
+8、区块查询
+BTC（https://btc.com/）
+
+比特币区块查询服务和工具
+
+
+
+Blockchain.iofo（https://blockchain.info/）
+
+比特币区块浏览器, 全世界访问量最大
+
+
+
+http://Etherscan.io（https://etherscan.io/）
+
+以太坊区块链浏览器，ERC-20 代币查询
+
+
+
+Etherechain（https://ethstats.net/）
+
+以太坊实时可视化图表数据
+
+
+
+Bitbank（https://block.bitbank.com/btc/）
+
+区块浏览器BTC/LTC/ETH/ETC
+
+
+
+区块（http://qukuai.com/search/）
+
+比特币、莱特币区块浏览器
+
+
+
+比特现金区块（https://blockchair.com/bitcoin-cash/blocks）
+
+BCH区块浏览器
+
+
+
+莱特币区块（https://chainz.cryptoid.info/ltc/）
+
+LTC区块浏览器
+
+
+
+泰达币区块（http://omnichest.info/lookupsp.aspx?sp=31）
+
+USDT区块查询
+
+
+
+Ripple（https://xrpcharts.ripple.com/）
+
+官网、区块链浏览器
+
+
+
+Dash（https://explorer.dash.org/chain/Dash）
+
+官网、区块链浏览器
+
+
+
+小蚁（http://www.antcha.in/）
+
+官网、区块链浏览器
+
+
+
+NEM（http://chain.nem.ninja/#/blocks/0）
+
+官网、区块链浏览器
+
+
+
+Qtum（https://explorer.qtum.org/）
+
+官网、区块链浏览器
+
+
+
+9、搬砖相关
+比特一下（http://bityixia.com/bit/binance）
+
+平台搬砖差价、平台公告
+
+
+
+AICoin搬砖常用工具（https://www.aicoin.net.cn/tools/rate）
+
+搬砖常用费率计算器、BTC最佳费用
+
+
+
+比特币精灵（http://www.btcjl.com/）
+
+一个自动对冲交易的搬砖工具
+
+
+
+BTC价格闹钟（http://www.bitcoin-tools.de/index.html）
+
+
+
+BTC当前最佳手续费（https://btc.com/stats/unconfirmed-tx）
+
+
+
+http://BTC.com 交易加速（https://pushtx.btc.com/）
+
+
+
+BTC原始交易解码工具（https://btc.com/tools/tx/decode）
+
+
+
+10、必读经典
+比特币白皮书：一个点对点的电子现金系统（https://bitcoin.org/bitcoin.pdf）
+
+
+
+Mastering Bitcoin 精通比特币（http://8btc.com/topic-mastering-bitcoin.html）
+
+
+
+以太坊白皮书：下一代智能合约和去中心化应用平台
+
+（https://www.ethereum.org/）
+
+
+
+以太坊书单
+
+EthList（https://github.com/Scanate/EthList）
+
+
+
+数字加密货币指南（https://mycrypto.guide/）
+
+告诉你有关加密货币的一切
+
+
+
+11、其他有趣的网站
+CryptoZombies（https://cryptozombies.io/）
+
+由Loom Network提供，编游戏的同时学习以太坊的智能协议
+
+
+
+Steemit（https://steemit.com）
+
+基于区块链的社交网络和内容奖励平台
+
+
+
+State of Dapps（https://www.stateofthedapps.com/）
+
+分布式应用程序的精选集合
+
+
+
+Purse – Shop with BTC（https://purse.io）
+
+直接用比特币购买亚马逊的商品，还有15%的折扣
+
+
+
+
+
+
 
 
 
