@@ -858,11 +858,11 @@ https://guild.xyz/early-bloomer
 * Cosmos空投信息表格：https://docs.google.com/spreadsheets/d/1CjRglycJ8DwJ4-ZE5PUwSFh3wGgEkfc_u52-YlripGw/htmlview
 
 
+https://www.orbiter.finance/
 
+https://gitcoin.co/
 
-
-
-
+https://zigzag.exchange
 
 
 
