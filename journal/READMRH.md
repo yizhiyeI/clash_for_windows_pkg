@@ -899,6 +899,13 @@ Jed McCaleb 為瑞波公司的共同創辦人暨前技術長，在 2013 年離�
 不過整個九月份，Jed McCaleb 都沒有出售任何一枚 XRP。
 
 
+* ![图片](https://user-images.githubusercontent.com/79394963/197441012-f185ab0e-a6b5-48e5-be6e-7dd2d309cecd.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/197441062-09bb09eb-d74d-436f-a9c3-c3b5b100c774.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/197441098-77a660e5-78c9-4149-baea-1a28d8aeec32.png)
+
+
 
 
 
