@@ -836,47 +836,88 @@ Moralis为区块链项目提供可管理的后端，是在Ethereum、BSC、Polyg
 谈到智能合约可以做什么，想象空间是无限的。随着我们继续发展这项技术，我们将看到越来越多令人惊奇的创新在Web3世界中得到实现；疯狂的是，任何人，包括你，都可以对这个行业产生巨大的影响，从而对未来产生影响。永远不要忘记，旅程就是回报，我们生活在一个非常激动人心的时代，这在人类历史上是前所未有的。我祝愿你在你的Web3开发者旅程中好运，现在去那里建设吧。
 
 引用链接
-[1] 哈佛的 CS50: https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[2] Introduction to Computer Science and Programming Using Python: https://www.edx.org/course/introduction-to-computer-science-and-programming-7?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[3] 区块链理论 101: https://www.udemy.com/course/blockchain-theory-101/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[4] 区块链：基础和用例: https://www.coursera.org/learn/blockchain-foundations-and-use-cases?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[5] 加州大学伯克利分校的区块链基础: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[6] 以太坊基金会介绍 Dapps: https://ethereum.org/en/developers/docs/dapps/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[7] 什么是去中心化应用程序？来自Gemini: https://www.gemini.com/cryptopedia/decentralized-applications-defi-dapps?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[8] 什么是去中心化应用程序？来自 Coindesk: https://www.coindesk.com/learn/what-is-a-decentralized-application/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[9] freecodecamp.com 提供的 300 多个小时的免费响应式网页设计课程，是启动前端开发人员职业生涯的最佳场所: https://www.freecodecamp.org/learn/responsive-web-design/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[10] Freecodecamp 提供免费的 300 小时以上的认证 JavaScript 课程，该课程还包含算法和数据结构的基础知识: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[11] W3C 的 JavaScript 介绍: https://www.edx.org/course/javascript-introduction?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[12] 这里有一些课程: https://medium.com/javarevisited/10-free-vue-js-nuxt-js-online-courses-for-beginners-in-2021-a347ea2ad144?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[13] 这里有一些课程: https://medium.com/javarevisited/5-best-react-js-books-for-beginners-and-experienced-web-developers-e7b90b1ab9d2?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[14] 这里有一些课程: https://medium.com/javarevisited/5-best-svelet-js-courses-for-beginners-in-2021-fadf0c4e2bab?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[15] 后端开发者路线图: http://distributedstack.dev/backend-developer-skills-roadmap-and-resources/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[16] 掌握 Github 和版本控制: https://www.udemy.com/course/github-ultimate/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[17] 后端开发人员的 12 大资源 : https://www.waveapps.com/freelancing/web-development/back-end-development-resources?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[18] 2021 年终极后端开发者路线图: https://vitto.cc/2021-backend-developer-roadmap/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[19] Solidity: https://soliditylang.org/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[20] Buildspace: https://buildspace.so/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[21] CryptoZombies: https://cryptozombies.io/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[22] Remote3: https://remote3.co/?utm_source=r3blog&utm_medium=blog&utm_campaign=seo
-[23] Dapp 大学介绍 Web3.js: https://www.dappuniversity.com/articles/web3-js-intro?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[24] 从零开始学习 Web3.js 视频课程: https://www.udemy.com/course/learn-ethereum-web3js-from-scratch/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[25] Web3.js 官方文档: https://web3js.readthedocs.io/en/v1.2.1/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[26] Ether.js 简介: https://www.youtube.com/watch?v=cqdAQK7WOlE?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[27] 使用 Ether.js 构建以太坊 Dapp: https://www.zastrin.com/tutorials/build-an-ethereum-dapp-using-ethersjs?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[28] 官方 Ether.js 文档: https://docs.ethers.io/v5/getting-started/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[29] 这里: https://docs.alchemy.com/alchemy/documentation/alchemy-web3?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[30] Remix 和 Solidity 简介: https://www.youtube.com/watch?v=JWJWT9cwFbo?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[31] 在 Remix 上部署你的第一个 Solidity 合约: https://www.youtube.com/watch?v=bZKVfXmzRDw?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[32] 官方remix文档: https://remix-ide.readthedocs.io/en/latest/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[33] 如何使用 Hardhat 创建和部署智能合约: https://www.quicknode.com/guides/web3-sdks/how-to-create-and-deploy-a-smart-contract-with-hardhat?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[34] 带Hardhat的 Hello World 智能合约: https://www.youtube.com/watch?v=m8ZBH46R_yQ?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[35] 使用 Web3.js 和 Truffle 进行测试 | Hardhat: https://hardhat.org/guides/truffle-testing.html?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[36] Truffle 快速入门指南: https://trufflesuite.com/docs/truffle/quickstart.html?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[37] 开始使用 Truffle Suite: https://www.youtube.com/watch?v=AgoSF8mih1M?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[38] 你的第一个 Truffle Dapp: https://medium.com/@tapdev/your-first-truffle-dapp-an-attempt-at-a-beginners-guide-to-the-truffle-framework-c7edf0493b7?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[39] 如何测试以太坊智能合约: https://betterprogramming.pub/how-to-test-ethereum-smart-contracts-35abc8fa199d?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[40] 如何编写智能合约测试: https://www.youtube.com/watch?v=nqaiSvsXIEk?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
-[41] Moralis 文档: https://docs.moralis.io/introduction/readme?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [1] 哈佛的 CS50: https://learning.edx.org/course/course-v1:HarvardX+CS50+X/home?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [2] Introduction to Computer Science and Programming Using Python: https://www.edx.org/course/introduction-to-computer-science-and-programming-7?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [3] 区块链理论 101: https://www.udemy.com/course/blockchain-theory-101/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [4] 区块链：基础和用例: https://www.coursera.org/learn/blockchain-foundations-and-use-cases?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [5] 加州大学伯克利分校的区块链基础: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [6] 以太坊基金会介绍 Dapps: https://ethereum.org/en/developers/docs/dapps/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [7] 什么是去中心化应用程序？来自Gemini: https://www.gemini.com/cryptopedia/decentralized-applications-defi-dapps?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [8] 什么是去中心化应用程序？来自 Coindesk: https://www.coindesk.com/learn/what-is-a-decentralized-application/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [9] freecodecamp.com 提供的 300 多个小时的免费响应式网页设计课程，是启动前端开发人员职业生涯的最佳场所: https://www.freecodecamp.org/learn/responsive-web-design/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [10] Freecodecamp 提供免费的 300 小时以上的认证 JavaScript 课程，该课程还包含算法和数据结构的基础知识: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [11] W3C 的 JavaScript 介绍: https://www.edx.org/course/javascript-introduction?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [12] 这里有一些课程: https://medium.com/javarevisited/10-free-vue-js-nuxt-js-online-courses-for-beginners-in-2021-a347ea2ad144?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [13] 这里有一些课程: https://medium.com/javarevisited/5-best-react-js-books-for-beginners-and-experienced-web-developers-e7b90b1ab9d2?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [14] 这里有一些课程: https://medium.com/javarevisited/5-best-svelet-js-courses-for-beginners-in-2021-fadf0c4e2bab?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [15] 后端开发者路线图: http://distributedstack.dev/backend-developer-skills-roadmap-and-resources/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [16] 掌握 Github 和版本控制: https://www.udemy.com/course/github-ultimate/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [17] 后端开发人员的 12 大资源 : https://www.waveapps.com/freelancing/web-development/back-end-development-resources?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [18] 2021 年终极后端开发者路线图: https://vitto.cc/2021-backend-developer-roadmap/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [19] Solidity: https://soliditylang.org/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [20] Buildspace: https://buildspace.so/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [21] CryptoZombies: https://cryptozombies.io/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [22] Remote3: https://remote3.co/?utm_source=r3blog&utm_medium=blog&utm_campaign=seo
+
+* [23] Dapp 大学介绍 Web3.js: https://www.dappuniversity.com/articles/web3-js-intro?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [24] 从零开始学习 Web3.js 视频课程: https://www.udemy.com/course/learn-ethereum-web3js-from-scratch/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [25] Web3.js 官方文档: https://web3js.readthedocs.io/en/v1.2.1/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [26] Ether.js 简介: https://www.youtube.com/watch?v=cqdAQK7WOlE?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [27] 使用 Ether.js 构建以太坊 Dapp: https://www.zastrin.com/tutorials/build-an-ethereum-dapp-using-ethersjs?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [28] 官方 Ether.js 文档: https://docs.ethers.io/v5/getting-started/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [29] 这里: https://docs.alchemy.com/alchemy/documentation/alchemy-web3?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [30] Remix 和 Solidity 简介: https://www.youtube.com/watch?v=JWJWT9cwFbo?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [31] 在 Remix 上部署你的第一个 Solidity 合约: https://www.youtube.com/watch?v=bZKVfXmzRDw?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [32] 官方remix文档: https://remix-ide.readthedocs.io/en/latest/?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [33] 如何使用 Hardhat 创建和部署智能合约: https://www.quicknode.com/guides/web3-sdks/how-to-create-and-deploy-a-smart-contract-with-hardhat?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [34] 带Hardhat的 Hello World 智能合约: https://www.youtube.com/watch?v=m8ZBH46R_yQ?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [35] 使用 Web3.js 和 Truffle 进行测试 | Hardhat: https://hardhat.org/guides/truffle-testing.html?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [36] Truffle 快速入门指南: https://trufflesuite.com/docs/truffle/quickstart.html?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [37] 开始使用 Truffle Suite: https://www.youtube.com/watch?v=AgoSF8mih1M?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [38] 你的第一个 Truffle Dapp: https://medium.com/@tapdev/your-first-truffle-dapp-an-attempt-at-a-beginners-guide-to-the-truffle-framework-c7edf0493b7?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [39] 如何测试以太坊智能合约: https://betterprogramming.pub/how-to-test-ethereum-smart-contracts-35abc8fa199d?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [40] 如何编写智能合约测试: https://www.youtube.com/watch?v=nqaiSvsXIEk?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
+
+* [41] Moralis 文档: https://docs.moralis.io/introduction/readme?utm_source=remote3.co&utm_medium=remote3.co&utm_campaign=remote3.co
 
 
 
