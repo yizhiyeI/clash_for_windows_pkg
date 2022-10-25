@@ -56,6 +56,11 @@ GUI based on Clash and Electron.
   * ![图片](https://user-images.githubusercontent.com/79394963/184807858-3b9323a8-9e95-44b2-b344-a533714b5dbd.png)
   
   * ![图片](https://user-images.githubusercontent.com/79394963/188295153-7c3bf962-f564-487a-ac6a-3b02b469f31d.png)
+  
+  
+  * ![通信行业风云](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READMJ.md)
+
+
 
 
   *  ![图片](https://user-images.githubusercontent.com/79394963/184807967-61edad05-9908-457a-8a63-cc9de480247a.png)
