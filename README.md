@@ -393,6 +393,11 @@ Total Revenue = Supply-side Revenue + Protocol Revenue
 
 # Web3 岗位库与人才库 https://abetterweb3.notion.site/
 
+# Web3 信息工会 https://seedao.notion.site/SEEDAO-WIKI-f57031667089473faa7ea3560d05960c
+
+* ![图片](https://user-images.githubusercontent.com/79394963/198218764-e6c9cb39-ea97-40a1-a19a-67be93bb42d8.png)
+
+
 * ![创立w3公司需要的工具](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READMA.md)
 
 帐号处于功能被限状态下，是无法发起注销申请的，还请在解封或解冻两周后尝试注销。如果是被永久封停，是无法注销的，敬请谅解。
