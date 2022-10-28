@@ -16,9 +16,9 @@ Windows
 
 # ![ Clash开发历程2018-2022致谢](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READMD.md)
 
-#  ![ 互联网商战风雨录](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READTH.md)
+# ![ 互联网商战风雨录](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READTH.md)
 
-#   ![ 开发速查表](https://wangchujiang.com/reference/)
+# ![开发速查表](https://wangchujiang.com/reference/)
 
 
 
