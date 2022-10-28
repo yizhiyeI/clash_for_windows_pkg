@@ -1339,6 +1339,37 @@ Celo基金会宣布了自己的一些举措，比如与一家布基纳法索(Bur
 
 Celo基金会宣布了自己的一些举措，比如与一家布基纳法索(Burkinabe)初创公司合作推出一种跟踪CFA法郎价值的稳定币，与Mercy Corps Ventures合作在肯尼亚试点，以推动零工工人中的金融包容性。作为Wave IV资助计划的一部分，该公司向多个非洲项目提供了免费股权资助，通过Celoccamp新兵训练营，为各种处于早期阶段的非洲公司提供支持。
 
+# Web3 Builder 需掌握生态项目汇总
+
+* ![图片](https://user-images.githubusercontent.com/79394963/198500086-653bdf53-11c6-4105-9dd7-6f3d599c9536.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/198500131-f98ae4c4-2217-4e8f-8800-ee3011ea5e46.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/198500173-d22319eb-6f95-43e8-a938-0a77e1b02481.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/198500261-1bc10a45-36e2-4232-be4b-f3b4c8faa99c.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/198500299-89cf206c-04fd-4315-a2ca-92b2b0f3df2e.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/198500348-fcfe4ea1-7da4-43fa-be11-49511890e202.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/198500437-85b80ba9-4d93-4a68-847b-6f15697bdc81.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/198500510-67242d74-df6d-4c49-9b3f-172052ba5b75.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/198500570-53bc012e-777c-4272-9265-843ec337ef02.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/198500628-e344e044-511d-4eed-ad01-625922f39fda.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
