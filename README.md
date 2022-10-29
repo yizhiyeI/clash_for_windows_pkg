@@ -85,6 +85,8 @@ GUI based on Clash and Electron.
 
 TCP/IP是一个协议族，是因为TCP/IP协议包括TCP、IP、UDP、ICMP、RIP、TELNETFTP、SMTP、ARP、TFTP等许多协议，这些协议一起称为TCP/IP协议。以下我们对协议族中一些常用协议英文名称和用途作一介绍：
 
+* ![ip地址的风云](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READMDP.md)
+
 * ![图片](https://user-images.githubusercontent.com/79394963/184808464-b666b3ea-4978-4c17-a80e-68937af99603.png)
  
  类别 IP地址范围
