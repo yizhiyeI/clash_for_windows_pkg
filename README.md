@@ -290,7 +290,7 @@ dns查询
 * ![区块链经济委员会模型]  https://buidlerdao.notion.site/0c1c683e29af48c0a3134fbea9ded822
 
 
-* ![区块链防黑防钓鱼指南]](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READMC.md)
+* ![区块链防黑防钓鱼指南](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READMC.md)
 
 
 Steemit中的通证分为三类：
