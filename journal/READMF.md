@@ -4,10 +4,26 @@
 
 * Web3解决方案提供商AIKON宣布完1000万美元A轮股权融资，Morgan Creek Digital领投，Up2 Opportunity Fund、Hestia Investments、Yugen Partners、Mighty Capital、Alpha Edison和Think+ Ventures参投。新资金将确保AIKON能够加速扩大其区块链解决方案业务。据悉，AIKON提供基于Open Rights Exchange (ORE) 网络的解决方案，由ORE代币提供支持，允许AIKON用户利用包括Ethereum、Polygon、Algorand、Telos、WAX等区块链的好处。AIKON正在增加对Avalanche区块链的兼容性，还发布了面向企业的加密和NFT多签钱包ORE Vault，产品已完成测试版，并为客户提供ORE ID的法币入口体验。
 
+* ![图片](https://user-images.githubusercontent.com/79394963/198919210-2daddb84-6eba-4fdb-b421-bbf484ba36fc.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/198919243-7d8421eb-1b8b-4177-ba2a-2b77630e7177.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/198919265-6ddad314-4b41-43b9-aa9b-354a7a9bda58.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/198919292-13e2fdc2-11d3-4c7d-8fb9-1d0f77b6a101.png)
+
+
+
+
+
+
+
 
 # 区块链
 
 * EEE计算机协会区块链和分布式记账标准委员会全体会议暨P3200系列国际标准工作组召开线上会议。记者了解到，一项名为《基于区块链的可信数据流通标准》成功立项并正式成立工作组。该标准由蚂蚁集团牵头，中国电子技术标准化研究院、国家电网、中国移动、腾讯、浙江大学等12家机构参与制定。据了解，这是IEEE首个面向可信数据流通场景的区块链国际标准，据不完全统计，此前蚂蚁集团在供应链金融、跨链、隐私保护、一体机等领域已经牵头主导过区块链国际标准。
+
+* ![图片](https://user-images.githubusercontent.com/79394963/198919344-15978449-8b7d-4209-adb1-d17d8cc41259.png)
 
 
 # 职业
