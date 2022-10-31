@@ -408,6 +408,16 @@ Total Revenue = Supply-side Revenue + Protocol Revenue
 
 * ![创立w3公司需要的工具](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READMA.md)
 
+* ![图片](https://user-images.githubusercontent.com/79394963/199016312-3e037c6c-b37b-4559-9025-145c7d211072.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/199016400-9cf10372-f01c-450e-96bd-d62d6f3434c4.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/199016498-b912b2c2-8116-45cd-b059-3bf4d8327a2d.png)
+
+* ![图片](https://user-images.githubusercontent.com/79394963/199016551-fc9cda5b-f2be-4b7b-90b0-143395abedf8.png)
+
+
+
 帐号处于功能被限状态下，是无法发起注销申请的，还请在解封或解冻两周后尝试注销。如果是被永久封停，是无法注销的，敬请谅解。
 其次，腾讯公司坚持依法处理及保护用户个人信息，充分尊重用户的权利，保障用户个人信息安全。腾讯公司的产品在获取您的信息前，都会明确告知您使用的目的，并且获得您的同意。具体每个产品如何使用您的个人信息，您可前往对应产品的隐私政策进一步了解
 
