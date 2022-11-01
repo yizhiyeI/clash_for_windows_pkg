@@ -289,7 +289,7 @@ dns查询
 
 * ![区块链经济委员会模型]  https://buidlerdao.notion.site/0c1c683e29af48c0a3134fbea9ded822
 
-* ![区块黑名单] (https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READMT.md)
+* ![区块黑名单奖共享，举报 奖励者机制](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READMT.md)
 
 
 * ![区块链防黑防钓鱼指南](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/READMC.md)
