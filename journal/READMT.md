@@ -80,6 +80,24 @@ UKF：已立案调查
 
 
 
+* ![图片](https://user-images.githubusercontent.com/79394963/199267016-8680413a-fe04-4c2c-937f-7a6b338a9ebd.png)
+
+* LD Capital、DuckDAO、Maven 11、DFG、Moonwhale这五家机构被列入黑名单。
+
+其中排名前五的投资机构为MultICOin、Andreessen Horowitz (a16z) 、Paradigm、Three Arrows Capital （三箭资本）和Social Capital。
+
+* ![图片](https://user-images.githubusercontent.com/79394963/199267220-2d895430-9242-41dc-9f96-c0193af16dc5.png)
+
+此外，币安、Coinbase等加密货币交易所旗下投资机构同样位居前列。
+
+* ![图片](https://user-images.githubusercontent.com/79394963/199267387-e34eb04f-d463-41f4-a470-ff7f852346e2.png)
+而LD Capital、DuckDAO、Maven 11、DFG、Moonwhale这五家机构被列入黑名单。  
+
+* 来源区块链资讯：https://www.qianba.com/news/p-427227.html
+
+
+* 工具追踪 ： http://www.ip-tracker.org/blacklist-check.php?ip=61.160.212.57
+
 
 招辨别是否属于传销币：
 
