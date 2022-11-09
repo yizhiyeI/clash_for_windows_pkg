@@ -665,6 +665,49 @@ MVC 的一个组织维度是在激进创新的情况下，参与探索和学习�
 
 * ![图片](https://user-images.githubusercontent.com/79394963/191682373-702d630e-4b98-47c0-983e-2d3522012b77.png)
 
+
+Web3 招聘网站
+不同于传统招聘网站，Web3 垂直招聘网站在近年内随着行业兴起。其中的工作具有 Web3 常见的分布式办公特性，技术人员的需求通常是网站中招聘岗位数量最多的岗位。由于汇总了行业内从业者和招聘方常用的 9 个 Web3 招聘网站，相信新手开发者们定能在其中找到适合自己的工作。
+
+web3.career
+
+https://t.co/2WK0pmU7I7
+
+cryptocurrencyjobs.co
+
+https://t.co/wi4bDz43ez
+
+remote3.co
+
+https://t.co/qWrVbBbmET
+
+crypto.jobs
+
+https://t.co/fFOtc8c31j
+
+cryptojobslist.com
+
+https://t.co/tqntjYgROz
+
+Gaby’s Web3 Job Board
+
+https://web-3.pallet.com/jobs
+
+RemoteOK
+
+https://remoteok.com/remote-web3-jobs
+
+AngelList Talent
+
+https://builtin.com/jobs/web3
+
+CoinMarket Cap
+
+https://jobs.coinmarketcap.co
+
+
+
+
 1. Value DeFi
 
 北京时间 11 月 14 日 23 点 36 分，Value DeFi 的 MultiStables Vault 池子遭受黑客攻击，损失将近 740 万美金的 DAI。由于 Value DeFi 协议在使用基于 AMM 算法的价格预言机(Curve)来计算代币价格时存在漏洞。攻击者先通过闪电贷操纵 Curve 上通证的价格，然后再用铸造的 pooltokens 成功提取出了远超原先价值的 3CRV 通证。之后，攻击者再将这些 3CRV 通证在 Curve 上赎回 DAI，从而完成获利。
