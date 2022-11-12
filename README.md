@@ -296,7 +296,7 @@ dns查询
 
 * ![区块链防黑防钓鱼指南二](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
 
-*![区块链绕不过的运营商]
+* ![世界最重要的事他妈的人才不是钱](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/ourna.md)
 
 
 
