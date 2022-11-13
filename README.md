@@ -298,9 +298,15 @@ dns查询
 
 * ![世界最重要的事他妈的人才不是钱](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/ourna.md)
 
+* ![链生态比武](https://github.com/mj5219054/clash_for_windows_pkg/blob/master/journal/blockchain.md)
+
+
 ####  因缘会相识,江湖问侠客
 
 ####  纵死侠骨香，不惭世上英。-Arcade  2022年11月13日知识付费的小伙伴
+
+
+
 
 Steemit中的通证分为三类：
 
