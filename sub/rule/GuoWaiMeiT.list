@@ -11,6 +11,82 @@ hideTrayIcon: false
 connShowProcess: true
 showTrayProxyDelayIndicator: true
 mixinText: >+
+  interface-name: en0
+
+
+  tun:
+    enable: true
+    stack: system # or gvisor
+    # dns-hijack:
+    #   - 8.8.8.8:53
+    #   - tcp://8.8.8.8:53
+    auto-route: true # auto set global route
+  mode: Script
+
+
+  # https://lancellc.gitbook.io/clash/clash-config-file/script
+
+  script:
+    code: |
+      def main(ctx, metadata):
+        ip = metadata["dst_ip"] = ctx.resolve_ip(metadata["host"])
+        if ip == "":
+          return "DIRECT"
+
+        code = ctx.geoip(ip)
+        if code == "LAN" or code == "CN":
+          return "DIRECT"
+        return "Proxy" # default policy for requests which are not matched by any other script
+    script:
+    shortcuts:
+      quic: network == 'udp' and dst_port == 443
+    rules:
+    - SCRIPT,quic,REJECT
+    rule-providers:
+    apple:
+      behavior: "domain"
+      type: http
+      url: "url"
+      interval: 3600
+      path: ./apple.yaml
+    microsoft:
+      behavior: "domain"
+      type: file
+      path: /microsoft.yaml
+    payload:
+    - '.blogger.com'
+    - '*.*.microsoft.com'
+    - 'books.itunes.apple.com'
+    - '192.168.1.0/24'
+    - '10.0.0.0.1/32'
+    - DOMAIN-SUFFIX,google.com
+    - DOMAIN-KEYWORD,google
+    - DOMAIN,ad.com
+    - SRC-IP-CIDR,192.168.1.201/32
+    - IP-CIDR,127.0.0.0/8
+    - GEOIP,CN
+    - DST-PORT,80
+    - SRC-PORT,7777
+    # MATCH is not necessary here
+    profile:
+      tracing: true
+      ebpf:
+    redirect-to-tun:
+      - eth0
+  proxy-groups:
+    - name: 🚀 手动切换
+      type: select
+      use:
+        - All
+      proxies:
+        - ✈️ 自动选择
+
+    - name: ✈️ 自动选择
+      type: url-test
+      use: 
+         - All
+      url: "http://www.gstatic.com/generate_204"
+      interval: 300
   nameserver:
       - https://doh.pub/dns-query
       - https://doh.dns.sb/dns-query
@@ -13345,3 +13421,5 @@ profileParsersText: |
   parsers: # array
 randomMixedPort: false
 connChainType: 1
+editor: 0
+theme: 1
