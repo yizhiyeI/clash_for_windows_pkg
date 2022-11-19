@@ -306,7 +306,7 @@ dns查询
 ####  纵死侠骨香，不惭世上英。-Arcade  2022年11月13日知识付费的小伙伴
 
 
-###  * ![区块链总结]( https://mirror.xyz/0x29F60561ca39980013A0DdB1cc9cccb7f29da24D)
+###  * ![区块链总结]：https://mirror.xyz/0x29F60561ca39980013A0DdB1cc9cccb7f29da24D
                 
 Steemit中的通证分为三类：
 
