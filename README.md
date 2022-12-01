@@ -131,7 +131,197 @@ dns查询
 
 * ![图片](https://user-images.githubusercontent.com/79394963/188295187-0aa98733-3482-4d83-a7a7-d59a48375e81.png)
 
+   DNS 根域位于互联网 DNS 分级命名空间的最上层。互联网是去中心化的，但组成 DNS 根域的域名服务器不是。来自 10 个域名的 165 台域名服务器服务了 43% 的域名记录，20 个域名的 255 台服务器服务了 52% 的域名记录，100 个域名的 1,580 个域名服务器服务了 75% 的域名记录，6000 个域名的 345,000 个域名服务器服务了 99% 的域名记录。以控制了逾半数互联网域名的 20 个域名为例，它们代表了 20 个巨头，其中 15 个是美国科技巨头如 GoDaddy、Google、Cloudflare 和亚马逊，2 个来自中国如阿里云，1 个德国公司、1 个以色列还有 1 个新加坡。34% 的域名解析的 IP 地址属于 Cloudflare 的自治系统 AS13335。
+   
+   $ dig +noall +answer +onesoa @f.root-servers.net arpa. AXFR | more
+arpa.                   86400   IN      SOA a.root-servers.net. nstld.verisign-grs.com. 2022111501 1800 900 604800 86400
+arpa.                   518400  IN      NS        m.ns.arpa.
+arpa.                   518400  IN      NS        c.ns.arpa.
+arpa.                   518400  IN      NS        f.ns.arpa.
+[...]
+   
+ 
+*  ![图片](https://user-images.githubusercontent.com/79394963/204968167-88a1b1b5-6938-4549-9bf7-44f9339a9eba.png)
 
+ 
+   awk '/IN[       ]*NS[   ]/ { print $NF }' root.zone | wc -l
+    7507
+ $ awk '/IN[       ]*NS[   ]/ { print $NF }' root.zone | sort | uniq -c | wc -l
+    5625
+ $ awk '/IN[       ]*NS[   ]/ { print $NF }' root.zone | sort | uniq -c | sort -rn | head -20
+ 119 ac4.nstld.com.
+ 119 ac3.nstld.com.
+ 118 ac2.nstld.com.
+ 118 ac1.nstld.com.
+  47 l.gmoregistry.net.
+  47 k.gmoregistry.net.
+  47 b.gmoregistry.net.
+  47 a.gmoregistry.net.
+  46 ns-tld5.charlestonroadregistry.com.
+  46 ns-tld4.charlestonroadregistry.com.
+  46 ns-tld3.charlestonroadregistry.com.
+  46 ns-tld2.charlestonroadregistry.com.
+  46 ns-tld1.charlestonroadregistry.com.
+  27 anycast9.irondns.net.
+  27 anycast24.irondns.net.
+  27 anycast23.irondns.net.
+  27 anycast10.irondns.net.
+  21 j.zdnscloud.com.
+  21 i.zdnscloud.com.
+  21 g.zdnscloud.com.
+ $ 
+ 
+ 但是如果你仔细观察，你会注意到许多域名服务器都在同一个域中，所以如果我们将整个事情扁平化，我们会看到更多的集中化。例如，6.3%的NS记录nstld.com，由威瑞信公司运营:
+
+
+*  ![图片](https://user-images.githubusercontent.com/79394963/204968252-ff4b563a-20a1-4261-bd88-457cebbd742f.png)
+
+ 但是更快地思考一下这种分布会让您意识到在gTLD中并不存在真正的均匀分布，因为并不是所有的域都有相同的足迹。正如您可能猜到的那样。com区域比其他一些区域有更多的记录。更具体地说，。com拥有超过1.64亿纳秒记录，占2005年所有NS记录的73%全部通用顶级域名。
+
+* ![图片](https://user-images.githubusercontent.com/79394963/204968295-f12e08fa-9b36-4bf0-8da9-16d60d030d51.png)
+
+ 这显示了一个明显的中央集权纳秒记录发现在所有gTLD区，与domaincontrol.com仅占大约20%。
+
+另一件有趣的事情是，一些提供DNS服务的云公司选择使用大量的纳秒就AWS而言，记录甚至跨越几个TLD中的数千个二级域名:
+ 
+ $ grep awsdns- domain-counts.full | head
+52221 awsdns-02.org.
+49614 awsdns-23.net.
+49264 awsdns-49.com.
+48276 awsdns-05.co.uk.
+46392 awsdns-35.org.
+45955 awsdns-53.com.
+45593 awsdns-19.net.
+44409 awsdns-25.com.
+44176 awsdns-22.co.uk.
+44140 awsdns-45.org.
+$ grep -c awsdns- domain-counts.full 
+978
+ 
+ 
+ 
+查看gTLDs中权威NS记录的多样性
+2022年11月15日
+
+Modified XKCD 2347 noting the DNS as the main
+dependency这是我第五次演讲的博客版本ICANN域名系统研讨会.
+
+为什么是的，互联网是建立在胶带和WD40众所周知。DNS是所有基石之母，如果被敲掉，将很快导致西方文明的衰落。(是的，这是一个很难使用的要求这部XKCD漫画为了说明这一点。)但至少它不像，比如说，whois，太好了！
+
+但是当域名系统根服务器众所周知是分布式的，我认为从根开始更仔细地查看直接级别可能会很有趣，所以我去分析了通用顶级域名(gtld)和这些gtld中的二级域名的权威名称服务器的多样性或集中化。
+
+为了执行这个分析，我从山根带，其中(截至2022年11月)包含1485个顶级域名。因为我之前讨论过你在那里找到的东西已经非常令人着迷了，但是为了我们的目的，请注意你可以通过ICANN申请访问所有gTLD区域的文件集中式区域数据服务这让我总共进入了1165个区域。此外，您可以获取。政府区域从CISA的GitHub知识库，以及。美国国防部高级研究计划署从大多数根服务器:
+
+$ dig +noall +answer +onesoa @f.root-servers.net arpa. AXFR | more
+arpa.                   86400   IN      SOA a.root-servers.net. nstld.verisign-grs.com. 2022111501 1800 900 604800 86400
+arpa.                   518400  IN      NS        m.ns.arpa.
+arpa.                   518400  IN      NS        c.ns.arpa.
+arpa.                   518400  IN      NS        f.ns.arpa.
+[...]
+这让我们错过了。电子显示器(electronic display unit)ˌ教育机构域名(education)ˌ实验发展处(Experimental Development Unit), 。（同Internationalorganizations）国际组织, 。密耳和。邮政TLD，一般不提供。(如果您知道如何访问，请让我知道.)
+
+对于特定国家代码的顶级域名(ccTLDs)，获得访问权限要困难得多:尽管大多数运营商不提供公共访问权限有些是:你可以AXFR他们中的一些人或者收集一些公开的数据来自其他人。向您出售区域数据的商业服务是存在的，但在我看来，这些数据应该是公开的，所以我暂时将ccTLDs排除在我的分析之外。
+
+总之，总共有1，168个区域文件，总计约7GB的数据(其中。com光是zone就占了4.8 GB！)，我继续使用各种shell脚本和一些perl胶水来解析纳秒记录，然后查看哪些域那些也就是说，谁控制他们。
+
+根
+DNS根区域本身由13个根管理机构提供服务，因此显然是多样化的。这13个机构由以下人员管理十二根算子:9个美国组织(包括三个美国政府实体)，其中一个(Verisign)运营两个roots，一个瑞典公司(Netnod)，日本的一个组织(广泛的)，还有一家总部位于荷兰(成熟的NCC).显然，所有的都在同一个域中(即，root-servers.net):
+
+Pie
+chart showing the even distribution of the 13 root
+authorities	Pie
+chart showing a full circle for root nameserver
+domains
+根区域的NS记录	包含这些ns记录的域
+现在对于根本身来说，这个例子当然有点傻，但是它让你知道我在这个分析中寻找什么。一旦我们处理了所有的纳秒根区域本身的记录，我们在5，612个唯一名称服务器上发现了总共7，507条NS记录相貌相当多样化:
+
+$ awk '/IN[       ]*NS[   ]/ { print $NF }' root.zone | wc -l
+    7507
+$ awk '/IN[       ]*NS[   ]/ { print $NF }' root.zone | sort | uniq -c | wc -l
+    5625
+$ awk '/IN[       ]*NS[   ]/ { print $NF }' root.zone | sort | uniq -c | sort -rn | head -20
+ 119 ac4.nstld.com.
+ 119 ac3.nstld.com.
+ 118 ac2.nstld.com.
+ 118 ac1.nstld.com.
+  47 l.gmoregistry.net.
+  47 k.gmoregistry.net.
+  47 b.gmoregistry.net.
+  47 a.gmoregistry.net.
+  46 ns-tld5.charlestonroadregistry.com.
+  46 ns-tld4.charlestonroadregistry.com.
+  46 ns-tld3.charlestonroadregistry.com.
+  46 ns-tld2.charlestonroadregistry.com.
+  46 ns-tld1.charlestonroadregistry.com.
+  27 anycast9.irondns.net.
+  27 anycast24.irondns.net.
+  27 anycast23.irondns.net.
+  27 anycast10.irondns.net.
+  21 j.zdnscloud.com.
+  21 i.zdnscloud.com.
+  21 g.zdnscloud.com.
+$ 
+但是如果你仔细观察，你会注意到许多域名服务器都在同一个域中，所以如果我们将整个事情扁平化，我们会看到更多的集中化。例如，6.3%的NS记录nstld.com，由威瑞信公司运营:
+
+Pie
+chart showing domains of NS records in the root zone
+
+但是更快地思考一下这种分布会让您意识到在gTLD中并不存在真正的均匀分布，因为并不是所有的域都有相同的足迹。正如您可能猜到的那样。com区域比其他一些区域有更多的记录。更具体地说，。com拥有超过1.64亿纳秒记录，占2005年所有NS记录的73%全部通用顶级域名。
+
+Pie
+chart showing the number of NS records in all gTLDs
+
+这纳秒的记录。com都在gtld-servers.net领域，但是例如，。网s；同样，在纳秒的记录。（同organic）有机和。信息都在同一个域中，所以我们可以将这些数据进一步扁平化:
+
+Pie
+chart showing the number of NS records in all gTLDs
+flattened by domain
+
+换句话说，几乎80%的NS记录全部通用顶级域名属于gtld-servers.net领域，从而控制威瑞信-相同的威瑞信也操作两个根。
+
+好，这是NS记录的表示为根区域内的gTLDs，但是所有二级域名的NS记录又如何呢在…之内通用顶级域名？解析所有1，168个区域文件，我们最终得到2，699，827个唯一名称服务器，我们可以将它们归入1，063，092个域:
+
+Pie
+chart showing the number of NS records across all gTLDs
+flattened by domain
+
+这显示了一个明显的中央集权纳秒记录发现在所有gTLD区，与domaincontrol.com仅占大约20%。
+
+另一件有趣的事情是，一些提供DNS服务的云公司选择使用大量的纳秒就AWS而言，记录甚至跨越几个TLD中的数千个二级域名:
+
+$ grep awsdns- domain-counts.full | head
+52221 awsdns-02.org.
+49614 awsdns-23.net.
+49264 awsdns-49.com.
+48276 awsdns-05.co.uk.
+46392 awsdns-35.org.
+45955 awsdns-53.com.
+45593 awsdns-19.net.
+44409 awsdns-25.com.
+44176 awsdns-22.co.uk.
+44140 awsdns-45.org.
+$ grep -c awsdns- domain-counts.full 
+978
+数据显示，在超过5.34亿的人口中纳秒超过100万个域的记录:
+
+43%的NS记录(大约2 . 3亿)仅由10个域中的165个域名服务器提供服务
+52%(约2 . 78亿)由20个域中的255个域名服务器提供服务
+仅在100个域中就有1，580个域名服务器为75%(约4.01亿)的用户提供服务
+6000个域中的345000个域名服务器为99%(约5 . 29亿)的用户提供服务
+让我们看看这20个域名，看看谁控制着它们，也就是所有gTLDs中一半以上的域名。它们是:
+ 
+ * ![图片](https://user-images.githubusercontent.com/79394963/204968423-78c8ab16-c9bc-431c-8bc9-fccea1bca7e7.png)
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 ### 互联网
   
