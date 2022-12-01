@@ -12,8 +12,61 @@ connShowProcess: true
 showTrayProxyDelayIndicator: true
 mixinText: >+
   interface-name: en0
+      - '+.xboxlive.com'
+      - 'proxy.golang.org'
+      - 'stun.*.*'
+      - 'stun.*.*.*'
+      - '+.stun.*.*.*.*'
+      - 'heartbeat.belkin.com'
+      - '*.linksys.com'
+      - '*.linksyssmartwifi.com'
+      - '*.router.asus.com'
+      - 'mesu.apple.com'
+      - 'swscan.apple.com'
+      - 'swquery.apple.com'
+      - 'swdownload.apple.com'
+      - 'swcdn.apple.com'
+      - 'swdist.apple.com'
+      - 'lens.l.google.com'
+      - 'stun.l.google.com'
+      - '+.nflxvideo.net'
+      - '*.square-enix.com'
+      - '*.finalfantasyxiv.com'
+      - '*.ffxiv.com'
+      - '*.mcdn.bilivideo.cn'
+       # 支持 UDP / TCP / DoT / DoH 协议的 DNS 服务，可以指明具体的连接端口号。
+       # 所有 DNS 请求将会直接发送到服务器，不经过任何代理。
+       # Clash 会使用最先获得的解析记录回复 DNS 请求
+  nameserver:
+      - https://doh.pub/dns-query
+      - https://doh.dns.sb/dns-query
+      - https://dns.adguard.com/dns-query
+      - https://cdn-doh.ssnm.xyz/dns-query
+      - 223.5.5.5 # 阿里DNS
+      - 180.76.76.76 # 百度DNS
+      - 119.29.29.29 # 腾讯DNS
+      - 117.50.11.11 # ONE DNS拦截版 恶意网站拦截、广告过滤
+      - 117.50.10.10 # ONE DNS纯净版 直接返回其真实的响应结果
+      - 114.114.114.114 # 114DNS
+      - https://dns.alidns.com/dns-query # 阿里 DoH DNS
+      - https://doh.360.cn/dns-query # 360 DoH DNS
 
-
+        # 当 fallback 参数被配置时, DNS 请求将同时发送至上方 nameserver 列表和下方 fallback 列表中配置的所有 DNS 服务器.
+        # 当解析得到的 IP 地址的地理位置不是 CN 时，clash 将会选用 fallback 中 DNS 服务器的解析结果。 fallback:
+      - https://dns.quad9.net:5053/dns-query
+      - https://dns-unfiltered.adguard.com/dns-query
+      - https://doh.opendns.com/dns-query
+      - https://1.0.0.1/dns-query
+      - https://public.dns.iij.jp/dns-query
+      - https://dns.twnic.tw/dns-query
+      - 8.8.8.8 # 谷歌DNS
+      - 1.1.1.1 # Cloudflare DNS
+      - tls://dns.rubyfish.cn:853
+      - tls://1.0.0.1:853
+      - tls://dns.google:853
+      - https://dns.rubyfish.cn/dns-query
+      - https://cloudflare-dns.com/dns-query
+      - https://dns.google/dns-query
   tun:
     enable: true
     stack: system # or gvisor
@@ -23,9 +76,7 @@ mixinText: >+
     auto-route: true # auto set global route
   mode: Script
 
-
-  # https://lancellc.gitbook.io/clash/clash-config-file/script
-
+   # https://lancellc.gitbook.io/clash/clash-config-file/script
   script:
     code: |
       def main(ctx, metadata):
@@ -87,22 +138,32 @@ mixinText: >+
          - All
       url: "http://www.gstatic.com/generate_204"
       interval: 300
-  nameserver:
-      - https://doh.pub/dns-query
-      - https://doh.dns.sb/dns-query
-      - https://dns.adguard.com/dns-query
-      - https://cdn-doh.ssnm.xyz/dns-query
-      - 223.5.5.5 
-      - 180.76.76.76 
-      - 119.29.29.29 
-      - 117.50.11.11 
-      - 117.50.10.10 
-      - 114.114.114.114 
-      - https://dns.alidns.com/dns-query # 阿里 DoH DNS
-      - https://doh.360.cn/dns-query #
-      - https://doh.pub/dns-query
-      - https://dns.alidns.com/dns-query
-      - https://dns.google/dns-query
+         - https://doh.pub/dns-query
+         - https://doh.dns.sb/dns-query
+         - https://dns.adguard.com/dns-query
+         - https://cdn-doh.ssnm.xyz/dns-query
+         - 223.5.5.5 
+         - 180.76.76.76 
+         - 119.29.29.29 
+         - 117.50.11.11 
+         - 117.50.10.10 
+         - 114.114.114.114 
+         - https://dns.alidns.com/dns-query 
+         - https://doh.pub/dns-query
+         - https://dns.alidns.com/dns-query
+         - https://dns.google/dns-query
+         - https://doh.pub/dns-query
+         - https://doh.dns.sb/dns-query
+         - https://dns.adguard.com/dns-query
+         - https://cdn-doh.ssnm.xyz/dns-query
+         - 223.5.5.5 
+         - 180.76.76.76 
+         - 119.29.29.29 
+         - 117.50.11.11 
+         - 117.50.10.10 
+         - 114.114.114.114 
+         - https://dns.alidns.com/dns-query 
+         - https://doh.360.cn/dns-query 
   fallback:
       - https://dns.quad9.net:5053/dns-query
       - https://dns-unfiltered.adguard.com/dns-query
@@ -110,66 +171,103 @@ mixinText: >+
       - https://1.0.0.1/dns-query
       - https://public.dns.iij.jp/dns-query
       - https://dns.twnic.tw/dns-query
-      - host-suffix, local, direct
-      - ip-cidr, 192.168.0.0/16, direct
-      - ip-cidr, 10.0.0.0/8, direct
-      - ip-cidr, 172.16.0.0/12, direct
-      - ip-cidr, 127.0.0.0/8, direct
-      - ip-cidr, 100.64.0.0/10, direct
-      - ip-cidr, 224.0.0.0/4, direct
-      - ip6-cidr, fe80::/10, direct
-      - ip-cidr, 203.107.1.1/24, reject
-      - ip-cidr, 183.240.197.130/32, direct
+      - https://dns.quad9.net:5053/dns-query
+      - https://dns-unfiltered.adguard.com/dns-query
+      - https://doh.opendns.com/dns-query
+      - https://1.0.0.1/dns-query
+      - https://public.dns.iij.jp/dns-query
+      - https://dns.twnic.tw/dns-query
       - 8.8.8.8 # 谷歌DNS
       - 1.1.1.1 # Cloudflare DNS
       - tls://dns.rubyfish.cn:853
       - tls://1.0.0.1:853
       - tls://dns.google:853
-      # 腾讯DoH DNS Server地址
-      - https://doh.pub/dns-query
-      - https://sm2.doh.pub/dns-query
-      # 腾讯DoT DNS Server地址
-      - tls://dot.pub
-      # 阿里DoH DNS Server地址
-      - https://dns.alidns.com/dns-query
-      # 阿里DoT DNS Server地址
-      - tls://dns.alidns.com
-      # 360 DoH DNS Server地址
-      - https://doh.360.cn
-      # 360 DoT DNS Server地址
-      - tls://dot.360.cn
       - https://dns.rubyfish.cn/dns-query
       - https://cloudflare-dns.com/dns-query
       - https://dns.google/dns-query
-      - server=119.29.29.29
-      - address=/mtalk.google.com/108.177.125.188
-      - server=/dl.google.com/119.29.29.29
-      - server=/dl.l.google.com/119.29.29.29
-      - server=/update.googleapis.com/119.29.29.29
-      - server=/*.dl.playstation.net/119.29.29.29
-      - server=/amplifi.lan/system
-      - server=/router.synology.com/system
-      - server=/sila.razer.com/system
-      - server=/router.asus.com/system
-      - server=/routerlogin.net/system
-      - server=/orbilogin.com/system
-      - server=/www.LinksysSmartWiFi.com/system
-      - server=/LinksysSmartWiFi.com/system
-      - server=/myrouter.local/system
-      - server=/www.miwifi.com/system
-      - server=/miwifi.com/system
-      - server=/mediarouter.home/system
-      - server=/tplogin.cn/system
-      - server=/tplinklogin.net/system
-      - server=/melogin.cn/system
-      - server=/falogin.cn/system
-      # Google DoH DNS Server地址
-      - https://dns.google/dns-query
-      # Google DoT DNS Server地址
-      - tls://dns.google
+                # 采取以上逻辑进行域名解析是为了对抗 DNS 投毒攻击
   fallback-filter:
-    geoip: false
-    ipcidr:
+      geoip: false
+      ipcidr:
+        - 0.0.0.0/8
+        - 10.0.0.0/8
+        - 100.64.0.0/10
+        - 127.0.0.0/8
+        - 169.254.0.0/16
+        - 172.16.0.0/12
+        - 192.0.0.0/24
+        - 192.0.2.0/24
+        - 192.88.99.0/24
+        - 192.168.0.0/16
+        - 198.18.0.0/15
+        - 198.51.100.0/24
+        - 203.0.113.0/24
+        - 224.0.0.0/4
+        - 240.0.0.0/4
+        - 255.255.255.255/32
+      domain:
+        - '+.google.com'
+        - '+.facebook.com'
+        - '+.youtube.com'
+        - '+.githubusercontent.com'
+        - '+.googlevideo.com'
+        - host-suffix, local, direct
+        - ip-cidr, 192.168.0.0/16, direct
+        - ip-cidr, 10.0.0.0/8, direct
+        - ip-cidr, 172.16.0.0/12, direct
+        - ip-cidr, 127.0.0.0/8, direct
+        - ip-cidr, 100.64.0.0/10, direct
+        - ip-cidr, 224.0.0.0/4, direct
+        - ip6-cidr, fe80::/10, direct
+        - ip-cidr, 203.107.1.1/24, reject
+        - ip-cidr, 183.240.197.130/32, direct
+        - 8.8.8.8 # 谷歌DNS
+        - 1.1.1.1 # Cloudflare DNS
+        - tls://dns.rubyfish.cn:853
+        - tls://1.0.0.1:853
+        - tls://dns.google:853
+        # 腾讯DoH DNS Server地址
+        - https://doh.pub/dns-query
+        - https://sm2.doh.pub/dns-query
+        # 腾讯DoT DNS Server地址
+        - tls://dot.pub
+        # 阿里DoH DNS Server地址
+        - https://dns.alidns.com/dns-query
+        # 阿里DoT DNS Server地址
+        - tls://dns.alidns.com
+        # 360 DoH DNS Server地址
+        - https://doh.360.cn
+        # 360 DoT DNS Server地址
+        - tls://dot.360.cn
+        - https://dns.rubyfish.cn/dns-query
+        - https://cloudflare-dns.com/dns-query
+        - https://dns.google/dns-query
+        - server=119.29.29.29
+        - address=/mtalk.google.com/108.177.125.188
+        - server=/dl.google.com/119.29.29.29
+        - server=/dl.l.google.com/119.29.29.29
+        - server=/update.googleapis.com/119.29.29.29
+        - server=/*.dl.playstation.net/119.29.29.29
+        - server=/amplifi.lan/system
+        - server=/router.synology.com/system
+        - server=/sila.razer.com/system
+        - server=/router.asus.com/system
+        - server=/routerlogin.net/system
+        - server=/orbilogin.com/system
+        - server=/www.LinksysSmartWiFi.com/system
+        - server=/LinksysSmartWiFi.com/system
+        - server=/myrouter.local/system
+        - server=/www.miwifi.com/system
+        - server=/miwifi.com/system
+        - server=/mediarouter.home/system
+        - server=/tplogin.cn/system
+        - server=/tplinklogin.net/system
+        - server=/melogin.cn/system
+        - server=/falogin.cn/system
+        # Google DoH DNS Server地址
+        - https://dns.google/dns-query
+        # Google DoT DNS Server地址
+        - tls://dns.google
         - 0.0.0.0/8
         - 10.0.0.0/8
         - 100.64.0.0/10
@@ -633,6 +731,13 @@ mixinText: >+
     - RULE-SET,Weibo-rules,Weibo
     - RULE-SET,Mainland-rules,Mainland
     - RULE-SET,MainlandIP-rules,Mainland
+    # > bilibili
+    - DOMAIN-SUFFIX,acgvideo.com,DIRECT
+    - DOMAIN-SUFFIX,biliapi.com,DIRECT
+    - DOMAIN-SUFFIX,biliapi.net,DIRECT
+    - DOMAIN-SUFFIX,bilibili.com,DIRECT
+    - DOMAIN-SUFFIX,bilibili.tv,DIRECT
+    - DOMAIN-SUFFIX,hdslb.com,DIRECT
     - GEOIP,CN,DIRECT
     - DOMAIN-SUFFIX,live.cn,China
     - DOMAIN-KEYWORD,emby
@@ -13409,6 +13514,16 @@ mixinText: >+
     - IP-CIDR,10.0.0.0/8,DIRECT
     - IP-CIDR,172.16.0.0/12,DIRECT
      - IP-CIDR,127.0.0.0/8,DIRECT
+    - IP-CIDR,100.64.0.0/10,DIRECT
+    # DNSPod Public DNS+
+    - IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
+    # GeoIP China
+    - GEOIP,CN,DIRECT
+    # Local Area Network
+    - IP-CIDR,192.168.0.0/16,DIRECT
+    - IP-CIDR,10.0.0.0/8,DIRECT
+    - IP-CIDR,172.16.0.0/12,DIRECT
+    - IP-CIDR,127.0.0.0/8,DIRECT
     - IP-CIDR,100.64.0.0/10,DIRECT
     # DNSPod Public DNS+
     - IP-CIDR,119.28.28.28/32,DIRECT,no-resolve
