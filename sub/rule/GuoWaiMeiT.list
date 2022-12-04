@@ -486,6 +486,16 @@ mixinText: >+
       behavior: classical
       url: "https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/applications.txt"
       path: ./ruleset/applications.yaml
+              ruleset=Domestic,https://raw.githubusercontent.com/RuCu6/Clash/main/Rules/Direct.list
+              ruleset=Guard,https://raw.githubusercontent.com/RuCu6/Clash/main/Rules/Advertising_Classical.list
+              ruleset=Guard,https://raw.githubusercontent.com/RuCu6/Clash/main/Rules/SystemOTA.list
+              ruleset=Microsoft,https://raw.githubusercontent.com/RuCu6/Clash/main/Rules/Microsoft.list
+              ruleset=Domestic,https://raw.githubusercontent.com/RuCu6/Clash/main/Rules/Apple.list
+              ruleset=Domestic,https://raw.githubusercontent.com/RuCu6/Clash/main/Rules/Speedtest.list
+              ruleset=Domestic,https://raw.githubusercontent.com/RuCu6/Clash/main/Rules/WeChat.list
+              ruleset=Lan,[]GEOIP,LAN
+              ruleset=Domestic,[]GEOIP,CN
+              ruleset=Ultimate,[]FINAL
             https://github.com/LM-Firefly/Rules/blob/master/PROXY/Google.list
             https://github.com/LM-Firefly/Rules/blob/master/Special/Local-LAN.list
             https://github.com/LM-Firefly/Rules/blob/master/CCC-Global.list
@@ -552,6 +562,7 @@ mixinText: >+
             https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/QuantumultX/BiliBili/BiliBili.list, tag=bilibili, update-interval=172800, opt-parser=false, enabled=true
             https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/QuantumultX.task.json
             https://limbopro.com/Adblock4limbo.list, tag=毒奶特供, force-policy=🛑 广告拦截, enabled=true
+            https://raw.githubusercontent.com/RuCu6/QuanX/main/QuantumultX.conf
             https://raw.githubusercontent.com/NobyDa/ND-AD/master/QuantumultX/AD_Block_Plus.txt, tag=野比(6W+), force-policy=🛑 广告拦截, update-interval=172800, opt-parser=false, enabled=true
             ruleset=🎯 国内流量,https://raw.githubusercontent.com/cutethotw/ClashRule/main/Inside.list
             ruleset=🚀 国外流量,https://raw.githubusercontent.com/cutethotw/ClashRule/main/Outside.list
